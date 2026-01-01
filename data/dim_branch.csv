@@ -1,0 +1,16 @@
+branch_id,branch_name,region,city,branch_type
+B01,SME Center 1,Tengah,Makassar,SME Center
+B02,SME Center 2,Timur,Jakarta,SME Center
+B03,SME Center 3,Tengah,Surabaya,SME Center
+B04,SME Center 4,Tengah,Bandung,SME Center
+B05,SME Center 5,Barat,Medan,SME Center
+B06,SME Center 6,Barat,Makassar,SME Center
+B07,SME Center 7,Barat,Surabaya,SME Center
+B08,SME Center 8,Timur,Jakarta,SME Center
+B09,SME Center 9,Tengah,Jakarta,SME Center
+B10,SME Center 10,Tengah,Semarang,SME Center
+B11,SME Center 11,Barat,Semarang,SME Center
+B12,SME Center 12,Timur,Bandung,SME Center
+B13,SME Center 13,Timur,Surabaya,SME Center
+B14,SME Center 14,Barat,Surabaya,SME Center
+B15,SME Center 15,Barat,Medan,SME Center

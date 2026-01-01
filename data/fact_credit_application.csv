@@ -1,0 +1,1201 @@
+application_id;application_date;rm_id;branch_id;business_sector;final_credit_status;approval_stage;decision_date;akad_signing_date;disbursement_date;requested_plafond;approved_plafond;missing_field_count;doc_completeness_flag;data_quality_score;rejection_reason
+APP00001;10/02/2024;RM009;B11;Jasa;Rejected;Verifikasi;22/02/2024;;;0,76;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00002;28/01/2024;RM022;B05;Perdagangan;Rejected;Analisis;03/02/2024;;;0,90;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00003;14/05/2024;RM022;B04;Jasa;Rejected;Verifikasi;05/06/2024;;;1,14;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00004;19/07/2024;RM011;B02;Perdagangan;Rejected;Verifikasi;08/08/2024;;;5,04;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00005;23/11/2024;RM014;B08;Transportasi;Pending;Verifikasi;;;;3,61;0,00;1;Complete;85;
+APP00006;24/09/2024;RM004;B03;Perdagangan;Approved;Analisis;13/10/2024;18/10/2024;20/10/2024;1,51;1,10;0;Complete;100;
+APP00007;02/02/2024;RM026;B04;Produksi;Approved;Komite;15/02/2024;24/02/2024;05/03/2024;2,37;2,05;0;Complete;100;
+APP00008;17/02/2024;RM026;B12;Transportasi;Pending;Verifikasi;;;;1,32;0,00;1;Complete;85;
+APP00009;02/03/2024;RM029;B07;Pertanian;Approved;Analisis;13/03/2024;19/03/2024;21/03/2024;2,47;1,70;0;Complete;100;
+APP00010;03/08/2024;RM013;B10;Produksi;Approved;Komite;11/09/2024;23/09/2024;28/09/2024;1,00;0,66;4;Incomplete;45;
+APP00011;19/10/2024;RM002;B09;Pertanian;Rejected;Verifikasi;29/10/2024;;;3,11;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00012;08/04/2024;RM023;B02;Transportasi;Rejected;Verifikasi;10/05/2024;;;1,19;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00013;20/06/2024;RM005;B03;Produksi;Rejected;Verifikasi;27/06/2024;;;3,22;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00014;25/12/2024;RM011;B04;Jasa;Approved;Analisis;31/12/2024;11/01/2025;15/01/2025;1,53;1,41;0;Complete;100;
+APP00015;01/08/2024;RM006;B10;Produksi;Approved;Komite;11/08/2024;25/08/2024;28/08/2024;1,23;0,81;2;Incomplete;75;
+APP00016;04/02/2024;RM018;B01;Jasa;Approved;Komite;22/02/2024;27/02/2024;;5,22;4,75;2;Incomplete;75;
+APP00017;14/08/2024;RM021;B07;Produksi;Approved;Komite;02/09/2024;06/09/2024;15/09/2024;2,20;2,02;0;Complete;100;
+APP00018;10/04/2024;RM010;B02;Jasa;Approved;Komite;17/05/2024;24/05/2024;30/05/2024;1,63;1,33;0;Complete;100;
+APP00019;10/05/2024;RM004;B05;Perdagangan;Approved;Komite;16/05/2024;31/05/2024;03/06/2024;3,12;2,26;0;Complete;100;
+APP00020;13/09/2024;RM009;B15;Perdagangan;Rejected;Verifikasi;23/10/2024;;;0,89;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00021;05/01/2024;RM006;B01;Perdagangan;Pending;Verifikasi;;;;3,85;0,00;1;Complete;85;
+APP00022;05/08/2024;RM002;B03;Perdagangan;Approved;Komite;22/08/2024;06/09/2024;09/09/2024;1,82;1,53;0;Complete;100;
+APP00023;11/09/2024;RM017;B12;Perdagangan;Approved;Analisis;20/10/2024;29/10/2024;01/11/2024;2,84;2,45;1;Complete;90;
+APP00024;24/12/2024;RM005;B02;Jasa;Approved;Komite;24/01/2025;01/02/2025;03/02/2025;0,78;0,47;2;Incomplete;75;
+APP00025;09/10/2024;RM025;B01;Perdagangan;Approved;Analisis;28/10/2024;12/11/2024;20/11/2024;1,58;1,53;3;Incomplete;60;
+APP00026;25/07/2024;RM006;B07;Pertanian;Rejected;Verifikasi;27/08/2024;;;1,99;0,00;4;Incomplete;30;Cashflow Lemah
+APP00027;15/01/2024;RM026;B05;Perdagangan;Approved;Komite;06/02/2024;17/02/2024;27/02/2024;3,68;2,75;0;Complete;100;
+APP00028;11/12/2024;RM012;B01;Perdagangan;Approved;Analisis;16/12/2024;23/12/2024;31/12/2024;2,98;2,27;0;Complete;100;
+APP00029;11/02/2024;RM023;B06;Produksi;Approved;Analisis;26/02/2024;29/02/2024;10/03/2024;1,57;0,94;0;Complete;100;
+APP00030;27/06/2024;RM021;B05;Jasa;Approved;Analisis;29/07/2024;05/08/2024;15/08/2024;2,40;1,92;2;Incomplete;75;
+APP00031;03/03/2024;RM010;B15;Perdagangan;Pending;Analisis;;;;4,21;0,00;5;Incomplete;25;
+APP00032;17/12/2024;RM022;B03;Konstruksi;Pending;Analisis;;;;1,76;0,00;1;Complete;85;
+APP00033;18/08/2024;RM021;B12;Konstruksi;Pending;Verifikasi;;;;1,65;0,00;0;Complete;100;
+APP00034;28/08/2024;RM027;B07;Perdagangan;Approved;Komite;23/09/2024;07/10/2024;13/10/2024;0,64;0,51;1;Complete;90;
+APP00035;21/02/2024;RM025;B11;Perdagangan;Pending;Analisis;;;;1,68;0,00;0;Complete;100;
+APP00036;05/04/2024;RM006;B10;Transportasi;Pending;Analisis;;;;0,70;0,00;0;Complete;100;
+APP00037;09/08/2024;RM027;B09;Produksi;Rejected;Analisis;07/11/2024;;;1,85;0,00;1;Complete;75;Cashflow Lemah
+APP00038;18/08/2024;RM008;B14;Jasa;Approved;Komite;01/09/2024;08/09/2024;10/09/2024;3,59;2,38;0;Complete;100;
+APP00039;24/08/2024;RM002;B13;Pertanian;Approved;Komite;11/09/2024;23/09/2024;28/09/2024;0,56;0,42;0;Complete;100;
+APP00040;22/05/2024;RM012;B13;Perdagangan;Pending;Verifikasi;;;;4,16;0,00;2;Incomplete;70;
+APP00041;19/06/2024;RM013;B09;Jasa;Pending;Analisis;;;;1,63;0,00;0;Complete;100;
+APP00042;29/01/2024;RM025;B14;Perdagangan;Approved;Komite;24/02/2024;07/03/2024;17/03/2024;1,95;1,62;0;Complete;100;
+APP00043;05/02/2024;RM021;B09;Pertanian;Approved;Komite;16/02/2024;29/02/2024;;1,47;1,41;0;Complete;100;
+APP00044;13/01/2024;RM007;B02;Jasa;Approved;Komite;23/01/2024;02/02/2024;07/02/2024;0,71;0,54;3;Incomplete;60;
+APP00045;08/06/2024;RM010;B03;Produksi;Rejected;Verifikasi;07/07/2024;;;1,24;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00046;22/11/2024;RM013;B07;Perdagangan;Approved;Komite;03/12/2024;08/12/2024;09/12/2024;6,98;6,31;0;Complete;100;
+APP00047;05/07/2024;RM017;B05;Perdagangan;Rejected;Verifikasi;01/08/2024;;;1,03;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00048;30/08/2024;RM026;B02;Jasa;Approved;Komite;26/09/2024;06/10/2024;;0,76;0,65;0;Complete;100;
+APP00049;26/03/2024;RM021;B03;Produksi;Rejected;Analisis;16/04/2024;;;2,16;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00050;10/10/2024;RM028;B10;Jasa;Rejected;Analisis;17/10/2024;;;1,88;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP00051;06/03/2024;RM030;B06;Perdagangan;Approved;Komite;09/04/2024;20/04/2024;22/04/2024;1,63;1,36;3;Incomplete;60;
+APP00052;18/06/2024;RM026;B13;Konstruksi;Rejected;Analisis;27/07/2024;;;2,00;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00053;14/02/2024;RM014;B07;Perdagangan;Approved;Analisis;26/02/2024;07/03/2024;09/03/2024;2,92;2,50;5;Incomplete;30;
+APP00054;02/03/2024;RM002;B09;Transportasi;Rejected;Verifikasi;31/03/2024;;;1,39;0,00;5;Incomplete;15;Sektor Risiko Tinggi
+APP00055;13/05/2024;RM028;B01;Perdagangan;Pending;Verifikasi;;;;2,23;0,00;3;Incomplete;55;
+APP00056;10/10/2024;RM022;B11;Produksi;Approved;Komite;20/10/2024;28/10/2024;06/11/2024;3,66;2,70;1;Complete;90;
+APP00057;28/01/2024;RM011;B07;Perdagangan;Pending;Analisis;;;;1,09;0,00;1;Complete;85;
+APP00058;17/04/2024;RM001;B08;Konstruksi;Rejected;Analisis;27/05/2024;;;0,49;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00059;13/02/2024;RM019;B12;Jasa;Approved;Komite;07/03/2024;15/03/2024;25/03/2024;2,97;2,34;0;Complete;100;
+APP00060;05/12/2024;RM021;B14;Perdagangan;Pending;Verifikasi;;;;8,90;0,00;0;Complete;100;
+APP00061;12/10/2024;RM004;B03;Perdagangan;Pending;Verifikasi;;;;1,97;0,00;2;Incomplete;70;
+APP00062;26/11/2024;RM019;B04;Perdagangan;Rejected;Analisis;24/12/2024;;;2,24;0,00;2;Incomplete;60;Cashflow Lemah
+APP00063;07/05/2024;RM026;B10;Perdagangan;Approved;Komite;24/05/2024;04/06/2024;05/06/2024;1,66;1,65;4;Incomplete;45;
+APP00064;13/12/2024;RM029;B06;Konstruksi;Approved;Komite;22/12/2024;06/01/2025;16/01/2025;5,14;4,75;0;Complete;100;
+APP00065;18/08/2024;RM021;B10;Jasa;Approved;Komite;25/08/2024;05/09/2024;11/09/2024;1,89;1,55;0;Complete;100;
+APP00066;08/07/2024;RM011;B07;Pertanian;Pending;Verifikasi;;;;1,77;0,00;3;Incomplete;55;
+APP00067;12/08/2024;RM008;B13;Produksi;Approved;Komite;31/08/2024;09/09/2024;18/09/2024;3,42;2,74;1;Complete;90;
+APP00068;09/10/2024;RM011;B14;Produksi;Rejected;Verifikasi;01/11/2024;;;1,48;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00069;30/04/2024;RM004;B04;Perdagangan;Approved;Komite;10/05/2024;20/05/2024;21/05/2024;0,92;0,68;5;Incomplete;30;
+APP00070;25/04/2024;RM017;B08;Perdagangan;Pending;Verifikasi;;;;3,37;0,00;3;Incomplete;55;
+APP00071;20/08/2024;RM027;B05;Pertanian;Approved;Analisis;08/09/2024;16/09/2024;22/09/2024;1,39;1,07;1;Complete;90;
+APP00072;15/09/2024;RM007;B01;Transportasi;Approved;Analisis;26/09/2024;02/10/2024;04/10/2024;1,10;0,90;3;Incomplete;60;
+APP00073;24/12/2024;RM008;B04;Perdagangan;Approved;Komite;22/01/2025;05/02/2025;08/02/2025;6,99;5,74;2;Incomplete;75;
+APP00074;16/07/2024;RM003;B03;Perdagangan;Approved;Analisis;07/08/2024;13/08/2024;;1,78;1,42;3;Incomplete;60;
+APP00075;16/05/2024;RM022;B09;Jasa;Pending;Analisis;;;;2,67;0,00;3;Incomplete;55;
+APP00076;13/11/2024;RM002;B08;Transportasi;Rejected;Verifikasi;17/12/2024;;;2,02;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00077;13/06/2024;RM023;B01;Perdagangan;Pending;Verifikasi;;;;1,16;0,00;2;Incomplete;70;
+APP00078;12/08/2024;RM015;B11;Jasa;Rejected;Verifikasi;09/09/2024;;;3,00;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00079;02/11/2024;RM024;B06;Konstruksi;Rejected;Analisis;17/11/2024;;;2,39;0,00;0;Complete;90;Cashflow Lemah
+APP00080;21/08/2024;RM022;B09;Perdagangan;Pending;Verifikasi;;;;1,33;0,00;4;Incomplete;40;
+APP00081;20/06/2024;RM022;B07;Perdagangan;Rejected;Analisis;18/07/2024;;;2,57;0,00;1;Complete;75;Cashflow Lemah
+APP00082;31/05/2024;RM005;B04;Produksi;Pending;Analisis;;;;1,46;0,00;2;Incomplete;70;
+APP00083;10/11/2024;RM024;B13;Konstruksi;Approved;Analisis;07/12/2024;19/12/2024;27/12/2024;1,02;0,66;3;Incomplete;60;
+APP00084;08/06/2024;RM001;B01;Perdagangan;Pending;Verifikasi;;;;0,96;0,00;4;Incomplete;40;
+APP00085;05/04/2024;RM026;B12;Jasa;Approved;Komite;23/04/2024;02/05/2024;12/05/2024;2,33;1,84;3;Incomplete;60;
+APP00086;20/08/2024;RM004;B02;Jasa;Pending;Verifikasi;;;;1,58;0,00;1;Complete;85;
+APP00087;28/06/2024;RM015;B12;Jasa;Pending;Analisis;;;;4,88;0,00;0;Complete;100;
+APP00088;22/04/2024;RM020;B05;Produksi;Approved;Analisis;14/05/2024;20/05/2024;26/05/2024;1,93;1,89;0;Complete;100;
+APP00089;13/11/2024;RM019;B12;Jasa;Approved;Analisis;22/11/2024;07/12/2024;14/12/2024;1,24;0,98;1;Complete;90;
+APP00090;21/02/2024;RM003;B11;Jasa;Rejected;Verifikasi;07/03/2024;;;2,18;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00091;24/09/2024;RM020;B05;Jasa;Pending;Analisis;;;;0,91;0,00;1;Complete;85;
+APP00092;21/10/2024;RM011;B08;Jasa;Approved;Analisis;29/11/2024;08/12/2024;14/12/2024;1,89;1,81;2;Incomplete;75;
+APP00093;22/04/2024;RM017;B06;Jasa;Pending;Verifikasi;;;;2,40;0,00;5;Incomplete;25;
+APP00094;10/04/2024;RM030;B08;Konstruksi;Pending;Verifikasi;;;;2,23;0,00;2;Incomplete;70;
+APP00095;22/04/2024;RM027;B02;Perdagangan;Approved;Analisis;12/05/2024;15/05/2024;16/05/2024;4,33;2,62;2;Incomplete;75;
+APP00096;21/03/2024;RM013;B03;Pertanian;Rejected;Analisis;05/04/2024;;;9,42;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00097;05/07/2024;RM011;B06;Pertanian;Pending;Verifikasi;;;;2,97;0,00;0;Complete;100;
+APP00098;22/04/2024;RM002;B12;Perdagangan;Approved;Analisis;26/05/2024;03/06/2024;09/06/2024;4,02;2,45;0;Complete;100;
+APP00099;02/01/2024;RM009;B13;Jasa;Rejected;Analisis;31/01/2024;;;9,12;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP00100;09/05/2024;RM026;B10;Jasa;Rejected;Analisis;31/05/2024;;;1,08;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00101;07/08/2024;RM002;B03;Perdagangan;Approved;Komite;16/09/2024;30/09/2024;;2,14;1,72;2;Incomplete;75;
+APP00102;23/02/2024;RM021;B06;Jasa;Approved;Komite;13/03/2024;23/03/2024;;1,49;1,22;1;Complete;90;
+APP00103;08/12/2024;RM009;B06;Perdagangan;Approved;Komite;02/01/2025;16/01/2025;21/01/2025;3,29;2,02;0;Complete;100;
+APP00104;11/08/2024;RM009;B02;Perdagangan;Pending;Analisis;;;;2,33;0,00;0;Complete;100;
+APP00105;12/08/2024;RM008;B07;Pertanian;Pending;Verifikasi;;;;1,21;0,00;1;Complete;85;
+APP00106;05/05/2024;RM017;B12;Perdagangan;Pending;Verifikasi;;;;2,00;0,00;1;Complete;85;
+APP00107;09/05/2024;RM001;B02;Pertanian;Rejected;Verifikasi;17/05/2024;;;3,72;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00108;22/02/2024;RM025;B06;Jasa;Pending;Verifikasi;;;;0,91;0,00;2;Incomplete;70;
+APP00109;20/06/2024;RM029;B01;Konstruksi;Approved;Komite;09/07/2024;24/07/2024;03/08/2024;1,23;1,18;1;Complete;90;
+APP00110;05/08/2024;RM011;B03;Jasa;Approved;Analisis;12/08/2024;21/08/2024;27/08/2024;1,12;1,12;3;Incomplete;60;
+APP00111;08/06/2024;RM008;B02;Perdagangan;Approved;Analisis;03/07/2024;12/07/2024;;2,41;2,40;1;Complete;90;
+APP00112;16/07/2024;RM010;B07;Produksi;Approved;Analisis;15/08/2024;28/08/2024;03/09/2024;4,17;3,97;4;Incomplete;45;
+APP00113;03/09/2024;RM025;B14;Perdagangan;Pending;Verifikasi;;;;0,59;0,00;0;Complete;100;
+APP00114;19/11/2024;RM007;B04;Jasa;Rejected;Verifikasi;11/12/2024;;;2,10;0,00;2;Incomplete;60;Cashflow Lemah
+APP00115;21/07/2024;RM003;B08;Konstruksi;Approved;Komite;30/07/2024;14/08/2024;21/08/2024;1,14;0,87;1;Complete;90;
+APP00116;02/07/2024;RM003;B06;Perdagangan;Pending;Analisis;;;;3,62;0,00;0;Complete;100;
+APP00117;02/05/2024;RM018;B12;Jasa;Pending;Verifikasi;;;;1,72;0,00;0;Complete;100;
+APP00118;11/09/2024;RM005;B10;Produksi;Approved;Analisis;29/09/2024;12/10/2024;;2,14;1,80;1;Complete;90;
+APP00119;20/10/2024;RM012;B04;Konstruksi;Approved;Analisis;14/11/2024;19/11/2024;21/11/2024;1,98;1,60;0;Complete;100;
+APP00120;06/10/2024;RM012;B05;Produksi;Approved;Analisis;24/10/2024;03/11/2024;10/11/2024;3,89;2,37;0;Complete;100;
+APP00121;20/11/2024;RM019;B13;Perdagangan;Approved;Komite;26/12/2024;29/12/2024;04/01/2025;6,78;6,21;5;Incomplete;30;
+APP00122;07/04/2024;RM030;B13;Produksi;Rejected;Analisis;07/05/2024;;;1,00;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP00123;16/07/2024;RM006;B15;Perdagangan;Approved;Komite;19/08/2024;24/08/2024;02/09/2024;1,12;0,80;2;Incomplete;75;
+APP00124;27/08/2024;RM002;B15;Produksi;Approved;Analisis;25/11/2024;21/09/2024;;2,40;1,45;3;Incomplete;60;
+APP00125;23/05/2024;RM012;B09;Transportasi;Approved;Komite;13/06/2024;25/06/2024;04/07/2024;1,21;0,91;4;Incomplete;45;
+APP00126;06/04/2024;RM019;B07;Produksi;Rejected;Analisis;19/04/2024;;;3,47;0,00;1;Complete;75;Cashflow Lemah
+APP00127;19/07/2024;RM005;B10;Konstruksi;Approved;Analisis;08/08/2024;16/08/2024;22/08/2024;3,82;3,69;0;Complete;100;
+APP00128;03/05/2024;RM012;B14;Perdagangan;Approved;Komite;12/06/2024;16/06/2024;20/06/2024;1,43;1,10;3;Incomplete;60;
+APP00129;05/07/2024;RM027;B14;Produksi;Approved;Komite;13/08/2024;23/08/2024;31/08/2024;1,25;0,98;2;Incomplete;75;
+APP00130;21/11/2024;RM027;B09;Pertanian;Approved;Komite;12/12/2024;16/12/2024;19/12/2024;1,68;1,24;1;Complete;90;
+APP00131;14/12/2024;RM017;B07;Perdagangan;Approved;Komite;15/01/2025;26/01/2025;31/01/2025;2,11;1,80;1;Complete;90;
+APP00132;15/09/2024;RM029;B12;Konstruksi;Pending;Verifikasi;;;;2,40;0,00;1;Complete;85;
+APP00133;27/05/2024;RM017;B01;Perdagangan;Approved;Analisis;26/06/2024;06/07/2024;08/07/2024;0,51;0,44;4;Incomplete;45;
+APP00134;08/09/2024;RM010;B12;Produksi;Approved;Komite;06/10/2024;09/10/2024;18/10/2024;1,11;1,00;0;Complete;100;
+APP00135;11/12/2024;RM025;B08;Pertanian;Rejected;Analisis;30/12/2024;;;1,56;0,00;4;Incomplete;30;Agunan Tidak Cukup
+APP00136;26/05/2024;RM023;B04;Produksi;Approved;Analisis;08/06/2024;22/06/2024;01/07/2024;1,23;1,16;4;Incomplete;45;
+APP00137;27/05/2024;RM017;B03;Perdagangan;Approved;Analisis;03/07/2024;08/07/2024;;0,36;0,31;2;Incomplete;75;
+APP00138;17/12/2024;RM015;B14;Jasa;Approved;Komite;22/01/2025;31/01/2025;10/02/2025;0,64;0,44;1;Complete;90;
+APP00139;17/07/2024;RM012;B13;Jasa;Rejected;Verifikasi;27/07/2024;;;0,91;0,00;1;Complete;80;Cashflow Lemah
+APP00140;03/11/2024;RM030;B07;Konstruksi;Approved;Analisis;11/11/2024;24/11/2024;;1,85;1,48;0;Complete;100;
+APP00141;07/05/2024;RM016;B12;Jasa;Rejected;Analisis;19/05/2024;;;1,53;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00142;08/02/2024;RM024;B03;Perdagangan;Pending;Verifikasi;;;;1,36;0,00;2;Incomplete;70;
+APP00143;03/12/2024;RM019;B08;Produksi;Approved;Analisis;17/12/2024;22/12/2024;25/12/2024;3,20;2,87;1;Complete;90;
+APP00144;25/12/2024;RM008;B06;Jasa;Rejected;Analisis;09/01/2025;;;3,20;0,00;0;Complete;88;Agunan Tidak Cukup
+APP00145;08/05/2024;RM021;B05;Produksi;Approved;Komite;09/06/2024;13/06/2024;23/06/2024;2,17;1,36;0;Complete;100;
+APP00146;23/09/2024;RM017;B04;Produksi;Approved;Analisis;02/10/2024;12/10/2024;15/10/2024;2,13;1,30;4;Incomplete;45;
+APP00147;30/05/2024;RM023;B08;Konstruksi;Rejected;Analisis;28/06/2024;;;1,19;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00148;24/10/2024;RM005;B08;Jasa;Pending;Analisis;;;;1,27;0,00;4;Incomplete;40;
+APP00149;08/04/2024;RM022;B12;Jasa;Pending;Verifikasi;;;;0,71;0,00;0;Complete;100;
+APP00150;19/09/2024;RM016;B01;Perdagangan;Approved;Komite;18/10/2024;02/11/2024;03/11/2024;1,71;1,49;1;Complete;90;
+APP00151;08/09/2024;RM006;B09;Perdagangan;Approved;Komite;12/10/2024;19/10/2024;23/10/2024;3,18;2,80;0;Complete;100;
+APP00152;23/05/2024;RM008;B14;Perdagangan;Pending;Analisis;;;;4,47;0,00;1;Complete;85;
+APP00153;11/12/2024;RM025;B05;Perdagangan;Approved;Komite;18/01/2025;26/01/2025;05/02/2025;1,71;1,67;2;Incomplete;75;
+APP00154;21/04/2024;RM018;B04;Produksi;Approved;Komite;12/05/2024;24/05/2024;01/06/2024;2,66;2,48;0;Complete;100;
+APP00155;29/02/2024;RM025;B06;Produksi;Approved;Komite;09/04/2024;23/04/2024;27/04/2024;0,36;0,31;1;Complete;90;
+APP00156;02/01/2024;RM012;B06;Jasa;Approved;Analisis;07/01/2024;16/01/2024;24/01/2024;1,53;1,33;2;Incomplete;75;
+APP00157;30/10/2024;RM015;B02;Pertanian;Rejected;Analisis;11/11/2024;;;1,51;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00158;10/09/2024;RM027;B08;Transportasi;Approved;Analisis;19/10/2024;01/11/2024;05/11/2024;4,85;4,19;2;Incomplete;75;
+APP00159;19/05/2024;RM026;B07;Pertanian;Rejected;Verifikasi;10/06/2024;;;2,51;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00160;06/02/2024;RM009;B01;Produksi;Approved;Analisis;03/03/2024;07/03/2024;17/03/2024;2,67;1,77;1;Complete;90;
+APP00161;08/06/2024;RM013;B05;Jasa;Pending;Verifikasi;;;;2,59;0,00;5;Incomplete;25;
+APP00162;09/01/2024;RM026;B12;Jasa;Approved;Analisis;21/01/2024;29/01/2024;06/02/2024;2,04;1,64;3;Incomplete;60;
+APP00163;20/08/2024;RM015;B06;Perdagangan;Approved;Komite;12/09/2024;25/09/2024;02/10/2024;4,97;4,93;4;Incomplete;45;
+APP00164;08/04/2024;RM010;B04;Jasa;Approved;Komite;10/05/2024;21/05/2024;28/05/2024;0,50;0,36;1;Complete;90;
+APP00165;26/05/2024;RM016;B02;Konstruksi;Approved;Analisis;10/06/2024;19/06/2024;23/06/2024;2,16;1,71;3;Incomplete;60;
+APP00166;30/10/2024;RM007;B13;Pertanian;Approved;Komite;03/12/2024;11/12/2024;14/12/2024;3,91;3,05;2;Incomplete;75;
+APP00167;26/07/2024;RM017;B14;Perdagangan;Rejected;Verifikasi;31/07/2024;;;0,64;0,00;0;Complete;90;Cashflow Lemah
+APP00168;10/05/2024;RM023;B04;Jasa;Pending;Verifikasi;;;;3,28;0,00;3;Incomplete;55;
+APP00169;31/05/2024;RM026;B01;Pertanian;Approved;Komite;21/06/2024;04/07/2024;05/07/2024;1,26;0,90;2;Incomplete;75;
+APP00170;23/02/2024;RM021;B07;Perdagangan;Approved;Analisis;31/03/2024;14/04/2024;20/04/2024;2,12;1,41;0;Complete;100;
+APP00171;29/04/2024;RM022;B02;Jasa;Approved;Komite;15/05/2024;30/05/2024;01/06/2024;1,24;0,88;0;Complete;100;
+APP00172;09/06/2024;RM026;B13;Konstruksi;Pending;Analisis;;;;3,53;0,00;3;Incomplete;55;
+APP00173;25/04/2024;RM007;B02;Jasa;Pending;Verifikasi;;;;1,67;0,00;0;Complete;100;
+APP00174;15/03/2024;RM014;B09;Perdagangan;Rejected;Analisis;21/04/2024;;;3,29;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00175;22/04/2024;RM015;B05;Jasa;Approved;Analisis;03/05/2024;13/05/2024;22/05/2024;2,57;2,18;1;Complete;90;
+APP00176;13/04/2024;RM021;B02;Konstruksi;Approved;Komite;07/05/2024;18/05/2024;23/05/2024;1,23;1,11;0;Complete;100;
+APP00177;05/12/2024;RM007;B11;Jasa;Approved;Komite;11/01/2025;14/01/2025;;2,68;2,12;4;Incomplete;45;
+APP00178;10/09/2024;RM009;B09;Perdagangan;Pending;Analisis;;;;1,33;0,00;1;Complete;85;
+APP00179;14/08/2024;RM019;B09;Jasa;Pending;Verifikasi;;;;2,06;0,00;1;Complete;85;
+APP00180;21/04/2024;RM016;B01;Jasa;Pending;Verifikasi;;;;1,65;0,00;4;Incomplete;40;
+APP00181;08/04/2024;RM008;B11;Jasa;Pending;Analisis;;;;3,40;0,00;1;Complete;85;
+APP00182;01/06/2024;RM018;B03;Pertanian;Approved;Analisis;18/06/2024;30/06/2024;08/07/2024;2,74;2,50;1;Complete;90;
+APP00183;14/12/2024;RM027;B04;Perdagangan;Pending;Verifikasi;;;;1,95;0,00;3;Incomplete;55;
+APP00184;03/12/2024;RM023;B14;Konstruksi;Approved;Analisis;17/12/2024;21/12/2024;24/12/2024;1,31;0,98;1;Complete;90;
+APP00185;12/07/2024;RM029;B07;Perdagangan;Pending;Analisis;;;;0,93;0,00;0;Complete;100;
+APP00186;05/11/2024;RM018;B10;Jasa;Approved;Komite;03/12/2024;09/12/2024;11/12/2024;2,15;1,62;2;Incomplete;75;
+APP00187;11/06/2024;RM030;B04;Perdagangan;Approved;Komite;26/06/2024;09/07/2024;13/07/2024;1,36;1,22;3;Incomplete;60;
+APP00188;26/07/2024;RM020;B02;Jasa;Rejected;Verifikasi;03/09/2024;;;0,64;0,00;3;Incomplete;45;Cashflow Lemah
+APP00189;17/06/2024;RM007;B07;Jasa;Rejected;Verifikasi;25/07/2024;;;0,89;0,00;5;Incomplete;15;Cashflow Lemah
+APP00190;09/06/2024;RM003;B06;Jasa;Rejected;Analisis;14/06/2024;;;5,26;0,00;3;Incomplete;77;Dokumen Tidak Lengkap
+APP00191;08/03/2024;RM018;B03;Perdagangan;Approved;Analisis;02/04/2024;15/04/2024;21/04/2024;1,33;1,23;2;Incomplete;75;
+APP00192;15/10/2024;RM027;B06;Produksi;Pending;Analisis;;;;3,80;0,00;3;Incomplete;55;
+APP00193;03/10/2024;RM010;B11;Perdagangan;Approved;Komite;01/01/2025;15/11/2024;22/11/2024;1,60;1,12;0;Complete;100;
+APP00194;30/10/2024;RM007;B15;Pertanian;Rejected;Analisis;05/11/2024;;;4,17;0,00;1;Complete;75;Cashflow Lemah
+APP00195;14/05/2024;RM017;B06;Konstruksi;Approved;Komite;26/05/2024;01/06/2024;;3,99;2,51;2;Incomplete;75;
+APP00196;13/07/2024;RM014;B12;Perdagangan;Rejected;Analisis;10/08/2024;;;1,21;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00197;07/05/2024;RM024;B05;Jasa;Rejected;Verifikasi;31/05/2024;;;0,60;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00198;02/02/2024;RM003;B04;Jasa;Pending;Verifikasi;;;;0,63;0,00;0;Complete;100;
+APP00199;24/06/2024;RM012;B10;Perdagangan;Approved;Analisis;14/07/2024;28/07/2024;01/08/2024;1,22;1,17;0;Complete;100;
+APP00200;22/01/2024;RM028;B12;Jasa;Approved;Analisis;30/01/2024;03/02/2024;05/02/2024;6,16;5,78;1;Complete;90;
+APP00201;25/08/2024;RM013;B15;Pertanian;Rejected;Analisis;14/09/2024;;;1,55;0,00;3;Incomplete;45;Agunan Tidak Cukup
+APP00202;06/06/2024;RM002;B01;Jasa;Approved;Komite;16/06/2024;25/06/2024;26/06/2024;2,16;1,33;4;Incomplete;45;
+APP00203;07/02/2024;RM003;B10;Perdagangan;Rejected;Analisis;17/02/2024;;;4,33;0,00;2;Incomplete;60;Cashflow Lemah
+APP00204;17/08/2024;RM005;B06;Pertanian;Approved;Komite;22/09/2024;26/09/2024;28/09/2024;2,12;1,87;3;Incomplete;60;
+APP00205;20/02/2024;RM011;B02;Jasa;Approved;Analisis;29/02/2024;15/03/2024;21/03/2024;2,08;1,53;1;Complete;90;
+APP00206;20/09/2024;RM008;B13;Pertanian;Rejected;Analisis;29/10/2024;;;2,88;0,00;1;Complete;75;Cashflow Lemah
+APP00207;09/10/2024;RM026;B03;Jasa;Pending;Verifikasi;;;;2,36;0,00;1;Complete;85;
+APP00208;27/01/2024;RM023;B14;Jasa;Pending;Verifikasi;;;;1,87;0,00;2;Incomplete;70;
+APP00209;13/08/2024;RM023;B08;Perdagangan;Pending;Verifikasi;;;;1,29;0,00;0;Complete;100;
+APP00210;03/10/2024;RM012;B10;Perdagangan;Approved;Komite;16/10/2024;29/10/2024;01/11/2024;2,08;1,92;1;Complete;90;
+APP00211;12/10/2024;RM007;B14;Transportasi;Pending;Analisis;;;;3,82;0,00;2;Incomplete;70;
+APP00212;06/04/2024;RM015;B14;Perdagangan;Approved;Analisis;19/04/2024;03/05/2024;;5,78;3,85;1;Complete;90;
+APP00213;10/10/2024;RM024;B06;Transportasi;Rejected;Verifikasi;14/11/2024;;;2,36;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00214;12/11/2024;RM017;B03;Jasa;Rejected;Analisis;22/12/2024;;;3,12;0,00;2;Incomplete;78;Cashflow Lemah
+APP00215;30/10/2024;RM004;B07;Perdagangan;Approved;Komite;14/11/2024;18/11/2024;26/11/2024;2,33;1,41;0;Complete;100;
+APP00216;26/05/2024;RM029;B04;Perdagangan;Pending;Verifikasi;;;;1,88;0,00;1;Complete;85;
+APP00217;04/01/2024;RM022;B14;Perdagangan;Pending;Analisis;;;;2,70;0,00;2;Incomplete;70;
+APP00218;04/02/2024;RM025;B09;Konstruksi;Approved;Komite;25/02/2024;06/03/2024;09/03/2024;4,05;2,61;0;Complete;100;
+APP00219;10/07/2024;RM013;B15;Jasa;Rejected;Verifikasi;17/08/2024;;;1,16;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00220;18/02/2024;RM018;B05;Jasa;Approved;Komite;21/03/2024;26/03/2024;03/04/2024;0,83;0,82;1;Complete;90;
+APP00221;17/01/2024;RM001;B03;Perdagangan;Approved;Komite;16/04/2024;18/02/2024;19/02/2024;1,44;1,16;4;Incomplete;45;
+APP00222;20/06/2024;RM016;B02;Perdagangan;Approved;Komite;29/07/2024;05/08/2024;06/08/2024;2,25;1,91;1;Complete;90;
+APP00223;07/08/2024;RM013;B11;Jasa;Approved;Komite;24/08/2024;27/08/2024;30/08/2024;3,34;2,48;4;Incomplete;45;
+APP00224;06/06/2024;RM010;B02;Perdagangan;Pending;Analisis;;;;1,10;0,00;3;Incomplete;55;
+APP00225;15/02/2024;RM012;B03;Pertanian;Pending;Verifikasi;;;;0,45;0,00;0;Complete;100;
+APP00226;06/01/2024;RM030;B02;Jasa;Pending;Verifikasi;;;;1,46;0,00;2;Incomplete;70;
+APP00227;08/04/2024;RM002;B14;Jasa;Pending;Verifikasi;;;;1,76;0,00;1;Complete;85;
+APP00228;20/08/2024;RM023;B04;Jasa;Approved;Komite;13/09/2024;16/09/2024;26/09/2024;0,99;0,66;0;Complete;100;
+APP00229;06/02/2024;RM003;B02;Jasa;Approved;Komite;07/03/2024;15/03/2024;17/03/2024;1,26;1,14;2;Incomplete;75;
+APP00230;06/10/2024;RM010;B10;Transportasi;Approved;Komite;03/11/2024;18/11/2024;22/11/2024;3,34;2,66;2;Incomplete;75;
+APP00231;14/12/2024;RM002;B09;Jasa;Approved;Komite;16/01/2025;19/01/2025;20/01/2025;2,08;1,53;0;Complete;100;
+APP00232;28/10/2024;RM030;B02;Perdagangan;Pending;Analisis;;;;2,44;0,00;4;Incomplete;40;
+APP00233;29/06/2024;RM027;B09;Produksi;Approved;Analisis;06/08/2024;13/08/2024;23/08/2024;1,60;1,31;2;Incomplete;75;
+APP00234;04/04/2024;RM023;B13;Perdagangan;Approved;Komite;07/05/2024;15/05/2024;17/05/2024;1,26;1,14;4;Incomplete;45;
+APP00235;08/04/2024;RM013;B06;Perdagangan;Approved;Komite;20/04/2024;28/04/2024;06/05/2024;1,59;1,13;0;Complete;100;
+APP00236;06/07/2024;RM013;B01;Transportasi;Rejected;Analisis;26/07/2024;;;2,67;0,00;4;Incomplete;30;Agunan Tidak Cukup
+APP00237;25/04/2024;RM018;B04;Pertanian;Rejected;Analisis;14/05/2024;;;0,81;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00238;09/07/2024;RM003;B15;Transportasi;Pending;Verifikasi;;;;5,34;0,00;0;Complete;100;
+APP00239;09/09/2024;RM027;B14;Jasa;Rejected;Verifikasi;18/09/2024;;;2,80;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP00240;09/06/2024;RM007;B01;Jasa;Pending;Verifikasi;;;;1,44;0,00;2;Incomplete;70;
+APP00241;12/09/2024;RM014;B14;Perdagangan;Pending;Verifikasi;;;;3,23;0,00;1;Complete;85;
+APP00242;18/11/2024;RM020;B06;Perdagangan;Approved;Komite;14/12/2024;23/12/2024;24/12/2024;4,13;2,54;1;Complete;90;
+APP00243;07/05/2024;RM029;B14;Pertanian;Pending;Verifikasi;;;;1,63;0,00;0;Complete;100;
+APP00244;18/01/2024;RM030;B13;Jasa;Pending;Verifikasi;;;;1,74;0,00;2;Incomplete;70;
+APP00245;07/10/2024;RM017;B04;Pertanian;Pending;Analisis;;;;4,86;0,00;1;Complete;85;
+APP00246;10/08/2024;RM029;B03;Produksi;Pending;Verifikasi;;;;7,07;0,00;1;Complete;85;
+APP00247;23/02/2024;RM030;B03;Perdagangan;Approved;Komite;29/02/2024;05/03/2024;15/03/2024;2,02;1,47;1;Complete;90;
+APP00248;27/02/2024;RM021;B09;Jasa;Pending;Verifikasi;;;;0,99;0,00;4;Incomplete;40;
+APP00249;18/11/2024;RM012;B06;Produksi;Rejected;Verifikasi;28/12/2024;;;1,50;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00250;25/12/2024;RM025;B09;Perdagangan;Approved;Komite;13/01/2025;19/01/2025;22/01/2025;3,69;3,14;2;Incomplete;75;
+APP00251;22/06/2024;RM016;B13;Pertanian;Pending;Verifikasi;;;;1,07;0,00;4;Incomplete;40;
+APP00252;06/10/2024;RM024;B05;Jasa;Approved;Komite;25/10/2024;05/11/2024;06/11/2024;1,75;1,73;1;Complete;90;
+APP00253;23/04/2024;RM012;B02;Perdagangan;Pending;Verifikasi;;;;2,36;0,00;0;Complete;100;
+APP00254;14/10/2024;RM015;B08;Jasa;Pending;Analisis;;;;1,14;0,00;0;Complete;100;
+APP00255;07/12/2024;RM025;B05;Transportasi;Approved;Komite;12/12/2024;21/12/2024;25/12/2024;3,83;2,94;2;Incomplete;75;
+APP00256;30/05/2024;RM010;B02;Perdagangan;Pending;Analisis;;;;3,01;0,00;0;Complete;100;
+APP00257;06/05/2024;RM030;B04;Pertanian;Approved;Komite;15/05/2024;27/05/2024;30/05/2024;6,62;5,39;1;Complete;90;
+APP00258;03/06/2024;RM025;B09;Perdagangan;Pending;Verifikasi;;;;3,17;0,00;0;Complete;100;
+APP00259;29/09/2024;RM007;B15;Pertanian;Approved;Komite;07/10/2024;20/10/2024;22/10/2024;1,11;0,93;0;Complete;100;
+APP00260;13/04/2024;RM020;B04;Produksi;Pending;Verifikasi;;;;2,73;0,00;1;Complete;85;
+APP00261;25/10/2024;RM005;B13;Perdagangan;Approved;Komite;13/11/2024;28/11/2024;04/12/2024;3,59;3,10;5;Incomplete;30;
+APP00262;02/09/2024;RM001;B12;Perdagangan;Pending;Analisis;;;;3,70;0,00;2;Incomplete;70;
+APP00263;24/06/2024;RM030;B12;Pertanian;Approved;Komite;03/07/2024;08/07/2024;;1,24;1,13;4;Incomplete;45;
+APP00264;08/02/2024;RM017;B12;Jasa;Rejected;Analisis;15/02/2024;;;1,16;0,00;4;Incomplete;30;Dokumen Tidak Lengkap
+APP00265;18/06/2024;RM003;B13;Produksi;Rejected;Analisis;14/07/2024;;;1,00;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00266;03/09/2024;RM013;B15;Perdagangan;Rejected;Verifikasi;12/09/2024;;;5,19;0,00;0;Complete;90;Cashflow Lemah
+APP00267;26/01/2024;RM014;B14;Konstruksi;Pending;Verifikasi;;;;2,88;0,00;2;Incomplete;70;
+APP00268;20/12/2024;RM024;B04;Produksi;Pending;Analisis;;;;1,21;0,00;3;Incomplete;55;
+APP00269;01/11/2024;RM030;B02;Konstruksi;Approved;Komite;08/12/2024;13/12/2024;22/12/2024;2,14;1,59;1;Complete;90;
+APP00270;13/01/2024;RM018;B13;Perdagangan;Approved;Analisis;02/02/2024;07/02/2024;16/02/2024;1,84;1,32;5;Incomplete;30;
+APP00271;11/11/2024;RM004;B12;Jasa;Approved;Komite;03/12/2024;07/12/2024;14/12/2024;1,11;0,91;0;Complete;100;
+APP00272;08/11/2024;RM018;B15;Jasa;Pending;Verifikasi;;;;2,03;0,00;0;Complete;100;
+APP00273;05/02/2024;RM030;B06;Jasa;Rejected;Verifikasi;12/03/2024;;;2,22;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00274;21/06/2024;RM005;B13;Jasa;Approved;Komite;09/07/2024;21/07/2024;22/07/2024;6,32;4,11;1;Complete;90;
+APP00275;20/01/2024;RM025;B11;Perdagangan;Rejected;Analisis;28/02/2024;;;1,34;0,00;0;Complete;90;Cashflow Lemah
+APP00276;16/11/2024;RM016;B14;Produksi;Pending;Analisis;;;;0,71;0,00;1;Complete;85;
+APP00277;20/09/2024;RM001;B02;Jasa;Pending;Verifikasi;;;;1,06;0,00;0;Complete;100;
+APP00278;21/05/2024;RM021;B12;Perdagangan;Approved;Komite;03/06/2024;12/06/2024;18/06/2024;1,16;1,00;2;Incomplete;75;
+APP00279;22/05/2024;RM014;B07;Produksi;Approved;Komite;26/06/2024;08/07/2024;09/07/2024;1,53;0,96;3;Incomplete;60;
+APP00280;01/04/2024;RM015;B03;Jasa;Pending;Analisis;;;;1,06;0,00;3;Incomplete;55;
+APP00281;19/12/2024;RM009;B15;Perdagangan;Pending;Verifikasi;;;;3,25;0,00;2;Incomplete;70;
+APP00282;17/11/2024;RM015;B03;Transportasi;Approved;Komite;07/12/2024;20/12/2024;22/12/2024;1,01;0,66;1;Complete;90;
+APP00283;14/10/2024;RM017;B05;Konstruksi;Pending;Verifikasi;;;;2,01;0,00;1;Complete;85;
+APP00284;02/08/2024;RM025;B03;Jasa;Rejected;Verifikasi;06/09/2024;;;6,58;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00285;07/12/2024;RM024;B02;Perdagangan;Rejected;Verifikasi;07/01/2025;;;2,76;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00286;20/02/2024;RM004;B10;Pertanian;Rejected;Analisis;08/03/2024;;;2,60;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00287;01/06/2024;RM012;B09;Jasa;Approved;Komite;12/06/2024;18/06/2024;20/06/2024;6,04;5,09;3;Incomplete;60;
+APP00288;04/07/2024;RM027;B02;Perdagangan;Approved;Analisis;15/07/2024;25/07/2024;31/07/2024;4,19;2,69;4;Incomplete;45;
+APP00289;03/03/2024;RM026;B14;Jasa;Pending;Verifikasi;;;;2,78;0,00;1;Complete;85;
+APP00290;08/07/2024;RM005;B11;Jasa;Approved;Komite;09/08/2024;21/08/2024;;1,65;1,15;2;Incomplete;75;
+APP00291;04/05/2024;RM029;B02;Jasa;Approved;Komite;31/05/2024;05/06/2024;11/06/2024;1,96;1,83;0;Complete;100;
+APP00292;29/05/2024;RM005;B13;Jasa;Approved;Analisis;30/06/2024;06/07/2024;09/07/2024;1,90;1,74;2;Incomplete;75;
+APP00293;09/11/2024;RM011;B15;Produksi;Approved;Analisis;10/12/2024;20/12/2024;28/12/2024;1,56;1,45;2;Incomplete;75;
+APP00294;27/02/2024;RM028;B08;Konstruksi;Approved;Analisis;01/04/2024;14/04/2024;22/04/2024;2,25;2,00;1;Complete;90;
+APP00295;07/12/2024;RM006;B15;Jasa;Approved;Komite;15/12/2024;22/12/2024;25/12/2024;2,45;2,29;0;Complete;100;
+APP00296;31/10/2024;RM007;B09;Produksi;Approved;Analisis;11/11/2024;21/11/2024;;0,94;0,64;3;Incomplete;60;
+APP00297;28/06/2024;RM024;B07;Konstruksi;Approved;Komite;06/07/2024;13/07/2024;21/07/2024;5,28;4,12;2;Incomplete;75;
+APP00298;18/06/2024;RM014;B03;Jasa;Pending;Analisis;;;;2,54;0,00;3;Incomplete;55;
+APP00299;21/11/2024;RM024;B09;Jasa;Pending;Verifikasi;;;;1,69;0,00;3;Incomplete;55;
+APP00300;27/09/2024;RM011;B03;Produksi;Pending;Analisis;;;;2,26;0,00;5;Incomplete;25;
+APP00301;23/02/2024;RM030;B05;Jasa;Approved;Analisis;24/03/2024;06/04/2024;;3,46;2,39;0;Complete;100;
+APP00302;10/04/2024;RM013;B09;Pertanian;Approved;Komite;06/05/2024;09/05/2024;13/05/2024;0,82;0,52;0;Complete;100;
+APP00303;20/09/2024;RM002;B12;Jasa;Pending;Verifikasi;;;;1,86;0,00;0;Complete;100;
+APP00304;22/02/2024;RM025;B14;Transportasi;Pending;Verifikasi;;;;0,97;0,00;0;Complete;100;
+APP00305;29/02/2024;RM007;B14;Perdagangan;Approved;Komite;11/03/2024;26/03/2024;01/04/2024;9,76;6,46;1;Complete;90;
+APP00306;17/04/2024;RM020;B03;Perdagangan;Approved;Komite;07/05/2024;17/05/2024;26/05/2024;2,15;1,97;2;Incomplete;75;
+APP00307;05/01/2024;RM004;B07;Produksi;Rejected;Verifikasi;22/01/2024;;;0,98;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00308;12/04/2024;RM027;B12;Perdagangan;Approved;Analisis;29/04/2024;06/05/2024;15/05/2024;17,19;11,48;0;Complete;100;
+APP00309;14/07/2024;RM008;B01;Perdagangan;Approved;Komite;22/08/2024;04/09/2024;05/09/2024;1,44;1,33;4;Incomplete;45;
+APP00310;18/09/2024;RM020;B04;Perdagangan;Pending;Analisis;;;;1,75;0,00;0;Complete;100;
+APP00311;15/12/2024;RM029;B04;Perdagangan;Approved;Analisis;17/01/2025;28/01/2025;01/02/2025;1,83;1,78;0;Complete;100;
+APP00312;16/02/2024;RM022;B07;Perdagangan;Approved;Komite;29/02/2024;05/03/2024;06/03/2024;1,19;1,15;2;Incomplete;75;
+APP00313;20/12/2024;RM021;B08;Transportasi;Approved;Komite;21/01/2025;25/01/2025;31/01/2025;2,30;1,88;2;Incomplete;75;
+APP00314;06/11/2024;RM019;B01;Perdagangan;Pending;Analisis;;;;0,53;0,00;1;Complete;85;
+APP00315;03/11/2024;RM013;B05;Produksi;Approved;Komite;19/11/2024;29/11/2024;05/12/2024;3,80;2,29;0;Complete;100;
+APP00316;23/05/2024;RM014;B07;Pertanian;Approved;Analisis;14/06/2024;22/06/2024;29/06/2024;1,01;0,63;2;Incomplete;75;
+APP00317;25/09/2024;RM010;B12;Konstruksi;Approved;Komite;29/10/2024;10/11/2024;17/11/2024;1,55;1,20;0;Complete;100;
+APP00318;03/05/2024;RM011;B04;Perdagangan;Rejected;Analisis;23/05/2024;;;3,11;0,00;0;Complete;90;Cashflow Lemah
+APP00319;15/04/2024;RM002;B13;Konstruksi;Approved;Analisis;24/04/2024;01/05/2024;04/05/2024;1,75;1,18;2;Incomplete;75;
+APP00320;06/06/2024;RM025;B04;Jasa;Rejected;Verifikasi;09/07/2024;;;1,80;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00321;26/05/2024;RM026;B04;Produksi;Approved;Komite;05/07/2024;18/07/2024;26/07/2024;1,08;0,72;0;Complete;100;
+APP00322;24/05/2024;RM009;B12;Produksi;Rejected;Verifikasi;04/06/2024;;;6,97;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00323;29/04/2024;RM017;B06;Pertanian;Rejected;Analisis;07/05/2024;;;2,73;0,00;5;Incomplete;15;Cashflow Lemah
+APP00324;14/11/2024;RM026;B07;Perdagangan;Approved;Analisis;23/12/2024;01/01/2025;10/01/2025;1,04;0,87;4;Incomplete;45;
+APP00325;01/10/2024;RM003;B02;Produksi;Approved;Komite;06/10/2024;20/10/2024;22/10/2024;2,21;1,77;1;Complete;90;
+APP00326;01/04/2024;RM024;B15;Jasa;Approved;Analisis;11/04/2024;18/04/2024;20/04/2024;0,99;0,61;0;Complete;100;
+APP00327;27/02/2024;RM006;B05;Pertanian;Approved;Komite;18/03/2024;28/03/2024;31/03/2024;5,57;5,44;0;Complete;100;
+APP00328;11/12/2024;RM005;B04;Transportasi;Pending;Verifikasi;;;;2,24;0,00;0;Complete;100;
+APP00329;16/08/2024;RM005;B15;Perdagangan;Approved;Komite;31/08/2024;07/09/2024;13/09/2024;1,10;0,80;1;Complete;90;
+APP00330;26/04/2024;RM022;B14;Transportasi;Approved;Komite;27/05/2024;02/06/2024;;3,01;2,00;2;Incomplete;75;
+APP00331;13/11/2024;RM015;B13;Perdagangan;Approved;Analisis;19/12/2024;28/12/2024;02/01/2025;1,68;1,24;1;Complete;90;
+APP00332;05/10/2024;RM023;B03;Perdagangan;Rejected;Verifikasi;09/11/2024;;;0,92;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00333;06/05/2024;RM017;B07;Perdagangan;Approved;Komite;24/05/2024;03/06/2024;13/06/2024;2,49;1,86;0;Complete;100;
+APP00334;08/05/2024;RM009;B11;Perdagangan;Approved;Analisis;07/06/2024;11/06/2024;14/06/2024;2,45;1,99;1;Complete;90;
+APP00335;27/02/2024;RM003;B12;Produksi;Approved;Komite;06/03/2024;12/03/2024;18/03/2024;3,92;3,72;0;Complete;100;
+APP00336;01/05/2024;RM020;B06;Perdagangan;Rejected;Analisis;16/05/2024;;;2,06;0,00;1;Complete;75;Cashflow Lemah
+APP00337;01/01/2024;RM026;B14;Perdagangan;Pending;Verifikasi;;;;2,11;0,00;2;Incomplete;70;
+APP00338;26/08/2024;RM017;B07;Konstruksi;Approved;Komite;24/09/2024;03/10/2024;09/10/2024;2,18;1,44;2;Incomplete;75;
+APP00339;16/10/2024;RM029;B05;Pertanian;Approved;Analisis;21/10/2024;02/11/2024;09/11/2024;5,16;3,98;1;Complete;90;
+APP00340;05/04/2024;RM027;B13;Pertanian;Approved;Komite;04/05/2024;12/05/2024;13/05/2024;1,65;1,12;1;Complete;90;
+APP00341;05/05/2024;RM010;B06;Konstruksi;Approved;Komite;26/05/2024;07/06/2024;;2,63;1,61;0;Complete;100;
+APP00342;27/04/2024;RM003;B05;Produksi;Rejected;Analisis;31/05/2024;;;2,87;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00343;17/02/2024;RM018;B14;Perdagangan;Pending;Verifikasi;;;;2,45;0,00;2;Incomplete;70;
+APP00344;29/03/2024;RM018;B07;Jasa;Approved;Komite;21/04/2024;28/04/2024;04/05/2024;1,61;1,50;0;Complete;100;
+APP00345;24/08/2024;RM030;B02;Produksi;Rejected;Verifikasi;25/09/2024;;;2,13;0,00;2;Incomplete;60;Cashflow Lemah
+APP00346;28/09/2024;RM017;B14;Perdagangan;Approved;Analisis;07/11/2024;21/11/2024;24/11/2024;1,87;1,85;2;Incomplete;75;
+APP00347;07/07/2024;RM024;B11;Produksi;Pending;Verifikasi;;;;6,42;0,00;4;Incomplete;40;
+APP00348;10/07/2024;RM003;B05;Perdagangan;Rejected;Analisis;15/08/2024;;;1,51;0,00;4;Incomplete;30;Agunan Tidak Cukup
+APP00349;09/03/2024;RM003;B06;Perdagangan;Approved;Komite;23/03/2024;30/03/2024;02/04/2024;1,15;0,74;0;Complete;100;
+APP00350;04/10/2024;RM006;B06;Jasa;Pending;Analisis;;;;1,98;0,00;5;Incomplete;25;
+APP00351;14/12/2024;RM013;B15;Produksi;Approved;Analisis;31/12/2024;03/01/2025;11/01/2025;1,89;1,77;2;Incomplete;75;
+APP00352;03/09/2024;RM024;B05;Jasa;Approved;Analisis;26/09/2024;09/10/2024;;2,23;1,92;2;Incomplete;75;
+APP00353;16/03/2024;RM029;B10;Produksi;Approved;Analisis;03/04/2024;12/04/2024;;1,51;1,21;0;Complete;100;
+APP00354;02/06/2024;RM015;B07;Perdagangan;Approved;Komite;10/06/2024;17/06/2024;23/06/2024;2,12;1,88;3;Incomplete;60;
+APP00355;23/05/2024;RM025;B10;Perdagangan;Pending;Verifikasi;;;;2,14;0,00;0;Complete;100;
+APP00356;26/03/2024;RM009;B08;Konstruksi;Rejected;Analisis;04/05/2024;;;3,41;0,00;3;Incomplete;45;Sektor Risiko Tinggi
+APP00357;03/07/2024;RM004;B07;Produksi;Pending;Analisis;;;;2,10;0,00;0;Complete;100;
+APP00358;11/10/2024;RM014;B05;Perdagangan;Rejected;Analisis;19/10/2024;;;2,11;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00359;07/08/2024;RM005;B01;Pertanian;Rejected;Verifikasi;01/09/2024;;;2,70;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00360;09/03/2024;RM002;B13;Perdagangan;Approved;Analisis;17/03/2024;20/03/2024;30/03/2024;3,34;2,57;0;Complete;100;
+APP00361;16/02/2024;RM011;B05;Jasa;Approved;Komite;24/02/2024;07/03/2024;;1,10;0,98;0;Complete;100;
+APP00362;03/04/2024;RM009;B10;Perdagangan;Approved;Komite;08/05/2024;21/05/2024;29/05/2024;0,94;0,60;1;Complete;90;
+APP00363;25/08/2024;RM024;B02;Produksi;Pending;Analisis;;;;5,48;0,00;0;Complete;100;
+APP00364;22/07/2024;RM003;B13;Produksi;Rejected;Verifikasi;28/08/2024;;;3,03;0,00;1;Complete;75;Cashflow Lemah
+APP00365;05/08/2024;RM027;B05;Perdagangan;Approved;Analisis;12/09/2024;27/09/2024;03/10/2024;1,74;1,60;2;Incomplete;75;
+APP00366;06/12/2024;RM028;B05;Konstruksi;Pending;Verifikasi;;;;2,01;0,00;3;Incomplete;55;
+APP00367;08/02/2024;RM029;B02;Jasa;Pending;Verifikasi;;;;1,57;0,00;2;Incomplete;70;
+APP00368;09/04/2024;RM009;B05;Perdagangan;Pending;Analisis;;;;2,25;0,00;0;Complete;100;
+APP00369;15/10/2024;RM003;B13;Perdagangan;Approved;Komite;30/10/2024;13/11/2024;15/11/2024;1,11;1,00;0;Complete;100;
+APP00370;10/09/2024;RM025;B04;Perdagangan;Approved;Analisis;18/09/2024;21/09/2024;30/09/2024;3,28;3,23;0;Complete;100;
+APP00371;09/08/2024;RM002;B01;Perdagangan;Approved;Komite;15/09/2024;27/09/2024;03/10/2024;2,20;1,42;4;Incomplete;45;
+APP00372;22/12/2024;RM012;B03;Jasa;Approved;Komite;01/01/2025;15/01/2025;19/01/2025;2,25;1,63;3;Incomplete;60;
+APP00373;23/01/2024;RM010;B01;Pertanian;Approved;Komite;08/02/2024;18/02/2024;19/02/2024;1,16;1,07;1;Complete;90;
+APP00374;06/09/2024;RM009;B12;Jasa;Pending;Analisis;;;;2,72;0,00;0;Complete;100;
+APP00375;10/01/2024;RM015;B11;Perdagangan;Approved;Komite;19/01/2024;26/01/2024;03/02/2024;1,18;0,81;3;Incomplete;60;
+APP00376;02/09/2024;RM008;B15;Perdagangan;Rejected;Analisis;11/09/2024;;;1,31;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP00377;20/11/2024;RM025;B05;Perdagangan;Approved;Komite;10/12/2024;25/12/2024;03/01/2025;2,09;2,08;3;Incomplete;60;
+APP00378;09/04/2024;RM005;B04;Jasa;Pending;Verifikasi;;;;8,93;0,00;3;Incomplete;55;
+APP00379;16/10/2024;RM011;B07;Pertanian;Approved;Analisis;15/11/2024;30/11/2024;;2,20;1,56;1;Complete;90;
+APP00380;28/06/2024;RM027;B05;Perdagangan;Pending;Verifikasi;;;;0,42;0,00;0;Complete;100;
+APP00381;10/08/2024;RM002;B10;Produksi;Rejected;Verifikasi;22/08/2024;;;1,35;0,00;1;Complete;75;Cashflow Lemah
+APP00382;06/09/2024;RM024;B14;Konstruksi;Approved;Analisis;26/09/2024;02/10/2024;10/10/2024;2,99;2,71;1;Complete;90;
+APP00383;26/05/2024;RM028;B04;Jasa;Approved;Analisis;02/06/2024;14/06/2024;24/06/2024;1,01;0,92;1;Complete;90;
+APP00384;05/04/2024;RM015;B02;Pertanian;Pending;Verifikasi;;;;3,26;0,00;1;Complete;85;
+APP00385;13/09/2024;RM006;B04;Jasa;Approved;Komite;23/09/2024;08/10/2024;16/10/2024;2,18;1,33;0;Complete;100;
+APP00386;20/11/2024;RM008;B12;Produksi;Approved;Komite;21/12/2024;29/12/2024;01/01/2025;3,59;2,96;1;Complete;90;
+APP00387;04/01/2024;RM027;B02;Jasa;Approved;Komite;11/02/2024;17/02/2024;25/02/2024;1,42;0,97;1;Complete;90;
+APP00388;16/01/2024;RM005;B08;Jasa;Approved;Komite;10/02/2024;23/02/2024;02/03/2024;1,35;0,99;0;Complete;100;
+APP00389;06/10/2024;RM016;B03;Perdagangan;Pending;Verifikasi;;;;2,78;0,00;1;Complete;85;
+APP00390;01/12/2024;RM026;B09;Perdagangan;Approved;Komite;22/12/2024;28/12/2024;03/01/2025;1,97;1,33;3;Incomplete;60;
+APP00391;03/09/2024;RM018;B13;Perdagangan;Rejected;Verifikasi;21/09/2024;;;1,90;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP00392;14/09/2024;RM006;B04;Jasa;Pending;Analisis;;;;5,08;0,00;1;Complete;85;
+APP00393;08/06/2024;RM005;B13;Perdagangan;Pending;Verifikasi;;;;2,85;0,00;1;Complete;85;
+APP00394;05/12/2024;RM028;B06;Konstruksi;Pending;Analisis;;;;0,60;0,00;0;Complete;100;
+APP00395;31/05/2024;RM016;B10;Produksi;Rejected;Verifikasi;25/06/2024;;;3,20;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP00396;26/06/2024;RM013;B05;Jasa;Approved;Analisis;16/07/2024;28/07/2024;30/07/2024;3,02;2,45;1;Complete;90;
+APP00397;11/06/2024;RM028;B10;Perdagangan;Rejected;Verifikasi;02/07/2024;;;4,04;0,00;1;Complete;75;Cashflow Lemah
+APP00398;02/02/2024;RM005;B13;Konstruksi;Pending;Analisis;;;;1,13;0,00;3;Incomplete;55;
+APP00399;27/06/2024;RM013;B01;Pertanian;Pending;Analisis;;;;2,41;0,00;1;Complete;85;
+APP00400;10/04/2024;RM017;B09;Produksi;Pending;Verifikasi;;;;2,12;0,00;0;Complete;100;
+APP00401;24/09/2024;RM018;B01;Perdagangan;Approved;Komite;24/10/2024;31/10/2024;05/11/2024;1,12;0,94;0;Complete;100;
+APP00402;18/11/2024;RM008;B08;Jasa;Approved;Komite;01/12/2024;14/12/2024;17/12/2024;3,50;2,65;1;Complete;90;
+APP00403;05/03/2024;RM013;B09;Perdagangan;Pending;Verifikasi;;;;1,72;0,00;1;Complete;85;
+APP00404;16/06/2024;RM030;B09;Perdagangan;Approved;Komite;10/07/2024;25/07/2024;28/07/2024;3,96;2,64;3;Incomplete;60;
+APP00405;25/11/2024;RM029;B01;Pertanian;Pending;Analisis;;;;1,27;0,00;1;Complete;85;
+APP00406;12/02/2024;RM019;B02;Produksi;Approved;Analisis;17/03/2024;31/03/2024;09/04/2024;0,83;0,71;2;Incomplete;75;
+APP00407;13/02/2024;RM026;B12;Jasa;Approved;Komite;09/03/2024;24/03/2024;28/03/2024;1,71;1,50;1;Complete;90;
+APP00408;11/10/2024;RM003;B13;Konstruksi;Approved;Analisis;20/10/2024;02/11/2024;06/11/2024;2,28;1,71;1;Complete;90;
+APP00409;12/01/2024;RM024;B01;Jasa;Approved;Komite;17/01/2024;30/01/2024;31/01/2024;1,44;1,02;1;Complete;90;
+APP00410;04/04/2024;RM008;B10;Jasa;Approved;Komite;08/05/2024;13/05/2024;23/05/2024;0,32;0,29;1;Complete;90;
+APP00411;28/10/2024;RM002;B02;Perdagangan;Approved;Komite;08/11/2024;21/11/2024;30/11/2024;2,50;2,27;1;Complete;90;
+APP00412;09/09/2024;RM008;B10;Konstruksi;Rejected;Verifikasi;18/09/2024;;;2,49;0,00;0;Complete;90;Cashflow Lemah
+APP00413;29/08/2024;RM027;B12;Perdagangan;Pending;Analisis;;;;2,99;0,00;3;Incomplete;55;
+APP00414;04/02/2024;RM013;B08;Konstruksi;Approved;Analisis;14/03/2024;18/03/2024;;1,58;1,18;0;Complete;100;
+APP00415;02/08/2024;RM013;B05;Pertanian;Pending;Verifikasi;;;;1,53;0,00;0;Complete;100;
+APP00416;02/12/2024;RM001;B12;Perdagangan;Rejected;Verifikasi;20/12/2024;;;4,71;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00417;30/03/2024;RM006;B11;Jasa;Pending;Verifikasi;;;;0,77;0,00;0;Complete;100;
+APP00418;20/09/2024;RM024;B07;Konstruksi;Approved;Komite;27/10/2024;09/11/2024;11/11/2024;1,71;1,38;1;Complete;90;
+APP00419;02/04/2024;RM019;B02;Jasa;Rejected;Analisis;23/04/2024;;;2,16;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00420;30/03/2024;RM016;B08;Konstruksi;Pending;Verifikasi;;;;2,85;0,00;0;Complete;100;
+APP00421;24/04/2024;RM008;B11;Konstruksi;Approved;Analisis;07/05/2024;20/05/2024;28/05/2024;2,20;1,92;1;Complete;90;
+APP00422;14/04/2024;RM028;B06;Jasa;Approved;Analisis;11/05/2024;14/05/2024;21/05/2024;1,14;0,94;2;Incomplete;75;
+APP00423;14/07/2024;RM001;B08;Jasa;Pending;Verifikasi;;;;4,00;0,00;0;Complete;100;
+APP00424;09/11/2024;RM027;B01;Konstruksi;Approved;Analisis;18/11/2024;25/11/2024;27/11/2024;1,99;1,27;1;Complete;90;
+APP00425;23/04/2024;RM027;B15;Produksi;Rejected;Verifikasi;13/05/2024;;;0,73;0,00;2;Incomplete;60;Cashflow Lemah
+APP00426;15/03/2024;RM016;B01;Perdagangan;Approved;Komite;12/04/2024;27/04/2024;;2,25;2,06;5;Incomplete;30;
+APP00427;04/08/2024;RM009;B12;Perdagangan;Rejected;Verifikasi;27/08/2024;;;2,64;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00428;03/10/2024;RM013;B07;Jasa;Pending;Verifikasi;;;;6,43;0,00;0;Complete;100;
+APP00429;05/09/2024;RM011;B08;Konstruksi;Approved;Komite;20/09/2024;30/09/2024;02/10/2024;2,53;1,57;2;Incomplete;75;
+APP00430;12/06/2024;RM013;B13;Pertanian;Approved;Komite;10/09/2024;18/07/2024;27/07/2024;0,81;0,50;1;Complete;90;
+APP00431;22/12/2024;RM025;B03;Produksi;Pending;Verifikasi;;;;0,83;0,00;0;Complete;100;
+APP00432;10/07/2024;RM021;B05;Perdagangan;Pending;Verifikasi;;;;4,22;0,00;3;Incomplete;55;
+APP00433;14/08/2024;RM010;B12;Perdagangan;Pending;Verifikasi;;;;1,22;0,00;1;Complete;85;
+APP00434;25/06/2024;RM004;B01;Konstruksi;Approved;Komite;03/08/2024;15/08/2024;24/08/2024;0,78;0,64;4;Incomplete;45;
+APP00435;08/04/2024;RM027;B07;Perdagangan;Approved;Komite;02/05/2024;10/05/2024;13/05/2024;3,61;2,93;2;Incomplete;75;
+APP00436;05/02/2024;RM006;B05;Perdagangan;Approved;Komite;14/03/2024;28/03/2024;31/03/2024;1,49;1,13;2;Incomplete;75;
+APP00437;05/04/2024;RM028;B08;Perdagangan;Pending;Verifikasi;;;;3,50;0,00;2;Incomplete;70;
+APP00438;31/05/2024;RM007;B13;Produksi;Approved;Analisis;05/06/2024;10/06/2024;11/06/2024;1,15;0,74;1;Complete;90;
+APP00439;30/05/2024;RM005;B08;Konstruksi;Approved;Analisis;09/07/2024;13/07/2024;22/07/2024;4,80;4,34;1;Complete;90;
+APP00440;08/07/2024;RM011;B09;Perdagangan;Pending;Verifikasi;;;;3,35;0,00;3;Incomplete;55;
+APP00441;11/08/2024;RM013;B07;Jasa;Rejected;Verifikasi;04/09/2024;;;1,29;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP00442;06/02/2024;RM026;B11;Produksi;Approved;Analisis;17/02/2024;24/02/2024;27/02/2024;0,73;0,63;3;Incomplete;60;
+APP00443;24/09/2024;RM025;B01;Transportasi;Approved;Komite;07/10/2024;15/10/2024;19/10/2024;7,91;7,64;3;Incomplete;60;
+APP00444;01/07/2024;RM019;B13;Perdagangan;Pending;Verifikasi;;;;1,75;0,00;5;Incomplete;25;
+APP00445;13/01/2024;RM023;B03;Jasa;Pending;Verifikasi;;;;1,25;0,00;2;Incomplete;70;
+APP00446;05/10/2024;RM010;B08;Jasa;Approved;Komite;26/10/2024;09/11/2024;18/11/2024;4,56;3,86;1;Complete;90;
+APP00447;04/08/2024;RM010;B03;Konstruksi;Rejected;Verifikasi;16/08/2024;;;3,50;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00448;20/12/2024;RM011;B08;Jasa;Rejected;Verifikasi;31/12/2024;;;4,03;0,00;2;Incomplete;60;Cashflow Lemah
+APP00449;12/10/2024;RM021;B01;Perdagangan;Approved;Komite;21/11/2024;30/11/2024;02/12/2024;1,87;1,63;0;Complete;100;
+APP00450;29/09/2024;RM030;B05;Produksi;Approved;Komite;13/10/2024;18/10/2024;27/10/2024;6,13;5,63;0;Complete;100;
+APP00451;02/03/2024;RM007;B04;Pertanian;Approved;Analisis;24/03/2024;30/03/2024;04/04/2024;0,90;0,58;0;Complete;100;
+APP00452;24/03/2024;RM018;B05;Perdagangan;Pending;Verifikasi;;;;1,42;0,00;3;Incomplete;55;
+APP00453;04/08/2024;RM004;B08;Konstruksi;Approved;Analisis;27/08/2024;01/09/2024;03/09/2024;2,51;1,61;3;Incomplete;60;
+APP00454;07/12/2024;RM002;B10;Perdagangan;Pending;Verifikasi;;;;4,00;0,00;2;Incomplete;70;
+APP00455;05/07/2024;RM014;B15;Jasa;Pending;Verifikasi;;;;2,95;0,00;1;Complete;85;
+APP00456;19/01/2024;RM013;B14;Jasa;Approved;Komite;06/02/2024;21/02/2024;24/02/2024;1,89;1,74;2;Incomplete;75;
+APP00457;25/06/2024;RM029;B04;Produksi;Pending;Analisis;;;;1,49;0,00;2;Incomplete;70;
+APP00458;09/04/2024;RM012;B11;Jasa;Rejected;Analisis;05/05/2024;;;4,01;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00459;20/08/2024;RM007;B04;Konstruksi;Approved;Analisis;07/09/2024;18/09/2024;28/09/2024;3,14;1,94;1;Complete;90;
+APP00460;16/03/2024;RM002;B15;Produksi;Approved;Komite;06/04/2024;14/04/2024;24/04/2024;1,17;0,83;1;Complete;90;
+APP00461;21/09/2024;RM013;B03;Produksi;Approved;Analisis;28/10/2024;08/11/2024;18/11/2024;1,15;0,80;1;Complete;90;
+APP00462;10/10/2024;RM014;B07;Pertanian;Rejected;Verifikasi;15/11/2024;;;1,43;0,00;2;Incomplete;60;Cashflow Lemah
+APP00463;24/07/2024;RM027;B03;Pertanian;Rejected;Verifikasi;14/08/2024;;;1,32;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00464;10/08/2024;RM017;B12;Perdagangan;Approved;Komite;18/08/2024;29/08/2024;08/09/2024;3,68;2,97;4;Incomplete;45;
+APP00465;21/02/2024;RM009;B03;Jasa;Pending;Verifikasi;;;;2,58;0,00;0;Complete;100;
+APP00466;04/12/2024;RM017;B11;Konstruksi;Approved;Analisis;14/12/2024;21/12/2024;;2,77;2,30;0;Complete;100;
+APP00467;23/05/2024;RM008;B10;Perdagangan;Approved;Komite;24/06/2024;29/06/2024;01/07/2024;2,22;1,96;1;Complete;90;
+APP00468;09/03/2024;RM002;B05;Produksi;Approved;Analisis;31/03/2024;07/04/2024;;2,29;1,95;0;Complete;100;
+APP00469;08/04/2024;RM028;B05;Transportasi;Approved;Analisis;15/04/2024;25/04/2024;05/05/2024;0,77;0,77;1;Complete;90;
+APP00470;25/01/2024;RM024;B14;Perdagangan;Approved;Komite;30/01/2024;14/02/2024;18/02/2024;3,19;2,09;0;Complete;100;
+APP00471;22/02/2024;RM013;B06;Produksi;Pending;Analisis;;;;1,41;0,00;1;Complete;85;
+APP00472;30/05/2024;RM003;B08;Jasa;Approved;Analisis;25/06/2024;02/07/2024;09/07/2024;1,94;1,49;0;Complete;100;
+APP00473;23/05/2024;RM016;B10;Jasa;Rejected;Analisis;05/06/2024;;;1,49;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00474;26/02/2024;RM006;B06;Perdagangan;Approved;Analisis;18/03/2024;01/04/2024;02/04/2024;2,16;1,87;1;Complete;90;
+APP00475;08/02/2024;RM019;B15;Perdagangan;Approved;Analisis;23/02/2024;02/03/2024;11/03/2024;2,80;2,23;0;Complete;100;
+APP00476;18/04/2024;RM030;B12;Produksi;Approved;Analisis;21/05/2024;05/06/2024;10/06/2024;1,08;0,87;2;Incomplete;75;
+APP00477;29/06/2024;RM007;B01;Pertanian;Pending;Analisis;;;;2,31;0,00;0;Complete;100;
+APP00478;11/02/2024;RM010;B15;Pertanian;Approved;Komite;22/03/2024;26/03/2024;02/04/2024;1,51;1,50;3;Incomplete;60;
+APP00479;04/07/2024;RM009;B08;Jasa;Approved;Komite;05/08/2024;15/08/2024;17/08/2024;4,38;4,25;4;Incomplete;45;
+APP00480;10/08/2024;RM002;B08;Perdagangan;Rejected;Analisis;19/09/2024;;;1,02;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00481;01/05/2024;RM028;B09;Produksi;Approved;Komite;06/05/2024;10/05/2024;13/05/2024;1,09;0,70;4;Incomplete;45;
+APP00482;12/05/2024;RM028;B09;Perdagangan;Approved;Komite;24/05/2024;29/05/2024;06/06/2024;1,60;1,50;3;Incomplete;60;
+APP00483;11/06/2024;RM015;B02;Konstruksi;Rejected;Verifikasi;20/06/2024;;;1,14;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00484;02/08/2024;RM030;B15;Pertanian;Approved;Analisis;16/08/2024;31/08/2024;06/09/2024;1,73;1,24;2;Incomplete;75;
+APP00485;08/08/2024;RM005;B02;Produksi;Approved;Komite;16/09/2024;22/09/2024;28/09/2024;1,44;1,07;0;Complete;100;
+APP00486;22/08/2024;RM029;B03;Konstruksi;Approved;Analisis;29/08/2024;11/09/2024;17/09/2024;2,09;2,04;3;Incomplete;60;
+APP00487;26/11/2024;RM022;B01;Perdagangan;Approved;Komite;24/12/2024;07/01/2025;13/01/2025;3,63;3,21;0;Complete;100;
+APP00488;25/05/2024;RM004;B04;Produksi;Approved;Komite;04/07/2024;17/07/2024;20/07/2024;2,07;1,49;0;Complete;100;
+APP00489;26/08/2024;RM020;B14;Perdagangan;Approved;Komite;09/09/2024;18/09/2024;27/09/2024;2,19;1,82;0;Complete;100;
+APP00490;16/03/2024;RM004;B04;Konstruksi;Approved;Komite;17/04/2024;02/05/2024;08/05/2024;1,05;1,03;0;Complete;100;
+APP00491;09/01/2024;RM018;B14;Perdagangan;Approved;Komite;22/01/2024;02/02/2024;04/02/2024;1,83;1,69;1;Complete;90;
+APP00492;14/03/2024;RM004;B09;Produksi;Pending;Analisis;;;;1,54;0,00;2;Incomplete;70;
+APP00493;09/09/2024;RM027;B09;Konstruksi;Approved;Komite;16/09/2024;24/09/2024;28/09/2024;2,98;2,67;4;Incomplete;45;
+APP00494;17/08/2024;RM017;B09;Perdagangan;Approved;Komite;10/09/2024;14/09/2024;;1,25;0,84;0;Complete;100;
+APP00495;07/01/2024;RM012;B10;Jasa;Rejected;Verifikasi;04/02/2024;;;1,18;0,00;4;Incomplete;30;Cashflow Lemah
+APP00496;22/06/2024;RM022;B07;Pertanian;Pending;Analisis;;;;2,40;0,00;4;Incomplete;40;
+APP00497;20/05/2024;RM017;B14;Jasa;Approved;Analisis;27/05/2024;11/06/2024;;6,50;6,32;0;Complete;100;
+APP00498;16/06/2024;RM010;B15;Perdagangan;Rejected;Verifikasi;13/07/2024;;;1,78;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00499;18/06/2024;RM022;B02;Perdagangan;Approved;Komite;06/07/2024;15/07/2024;25/07/2024;2,19;2,07;3;Incomplete;60;
+APP00500;09/10/2024;RM001;B10;Perdagangan;Approved;Komite;29/10/2024;01/11/2024;04/11/2024;3,50;2,47;2;Incomplete;75;
+APP00501;01/05/2024;RM022;B05;Konstruksi;Pending;Verifikasi;;;;2,69;0,00;2;Incomplete;70;
+APP00502;12/07/2024;RM026;B04;Jasa;Approved;Komite;23/07/2024;30/07/2024;09/08/2024;2,70;1,74;2;Incomplete;75;
+APP00503;05/01/2024;RM024;B12;Perdagangan;Approved;Analisis;01/02/2024;12/02/2024;16/02/2024;1,87;1,62;1;Complete;90;
+APP00504;29/01/2024;RM027;B11;Jasa;Approved;Komite;09/03/2024;13/03/2024;21/03/2024;1,89;1,77;0;Complete;100;
+APP00505;13/06/2024;RM018;B08;Jasa;Approved;Komite;14/07/2024;24/07/2024;01/08/2024;1,26;1,12;1;Complete;90;
+APP00506;04/12/2024;RM018;B02;Perdagangan;Approved;Analisis;18/12/2024;26/12/2024;31/12/2024;2,65;2,14;0;Complete;100;
+APP00507;15/05/2024;RM014;B06;Jasa;Rejected;Verifikasi;04/06/2024;;;2,62;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP00508;16/11/2024;RM015;B13;Perdagangan;Approved;Komite;01/12/2024;14/12/2024;16/12/2024;3,05;2,97;3;Incomplete;60;
+APP00509;07/12/2024;RM029;B05;Perdagangan;Rejected;Analisis;23/12/2024;;;1,48;0,00;1;Complete;75;Cashflow Lemah
+APP00510;24/05/2024;RM012;B15;Produksi;Pending;Analisis;;;;3,26;0,00;5;Incomplete;25;
+APP00511;22/11/2024;RM004;B12;Perdagangan;Rejected;Verifikasi;23/12/2024;;;3,91;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00512;04/08/2024;RM027;B02;Produksi;Pending;Analisis;;;;0,96;0,00;2;Incomplete;70;
+APP00513;27/10/2024;RM003;B11;Jasa;Pending;Verifikasi;;;;1,66;0,00;2;Incomplete;70;
+APP00514;11/05/2024;RM020;B10;Jasa;Approved;Komite;17/05/2024;31/05/2024;09/06/2024;4,01;3,58;5;Incomplete;30;
+APP00515;18/10/2024;RM029;B15;Produksi;Approved;Komite;03/11/2024;16/11/2024;20/11/2024;1,34;1,14;2;Incomplete;75;
+APP00516;10/03/2024;RM012;B01;Jasa;Approved;Analisis;05/04/2024;12/04/2024;18/04/2024;2,72;2,56;0;Complete;100;
+APP00517;08/09/2024;RM007;B08;Konstruksi;Rejected;Verifikasi;09/10/2024;;;1,99;0,00;4;Incomplete;30;Agunan Tidak Cukup
+APP00518;01/10/2024;RM029;B02;Produksi;Rejected;Verifikasi;21/10/2024;;;2,42;0,00;2;Incomplete;60;Cashflow Lemah
+APP00519;30/06/2024;RM011;B07;Jasa;Approved;Analisis;22/07/2024;03/08/2024;;2,03;1,53;0;Complete;100;
+APP00520;15/06/2024;RM001;B09;Pertanian;Approved;Analisis;30/06/2024;09/07/2024;19/07/2024;3,10;1,90;2;Incomplete;75;
+APP00521;31/03/2024;RM006;B09;Produksi;Approved;Komite;11/04/2024;24/04/2024;02/05/2024;1,07;0,69;3;Incomplete;60;
+APP00522;20/07/2024;RM015;B08;Perdagangan;Pending;Verifikasi;;;;1,15;0,00;1;Complete;85;
+APP00523;11/12/2024;RM015;B11;Perdagangan;Approved;Analisis;09/01/2025;17/01/2025;18/01/2025;4,77;4,53;1;Complete;90;
+APP00524;19/01/2024;RM019;B14;Perdagangan;Pending;Verifikasi;;;;6,99;0,00;3;Incomplete;55;
+APP00525;08/02/2024;RM011;B12;Konstruksi;Rejected;Analisis;15/02/2024;;;1,98;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP00526;05/05/2024;RM026;B10;Produksi;Approved;Analisis;09/06/2024;13/06/2024;20/06/2024;5,55;5,35;1;Complete;90;
+APP00527;21/06/2024;RM023;B09;Konstruksi;Approved;Analisis;10/07/2024;23/07/2024;;1,25;1,16;0;Complete;100;
+APP00528;20/05/2024;RM026;B02;Produksi;Approved;Analisis;06/06/2024;12/06/2024;18/06/2024;1,44;1,16;0;Complete;100;
+APP00529;29/08/2024;RM002;B06;Jasa;Approved;Komite;02/10/2024;12/10/2024;18/10/2024;4,75;4,32;2;Incomplete;75;
+APP00530;07/08/2024;RM014;B04;Perdagangan;Approved;Analisis;03/09/2024;06/09/2024;;3,21;2,60;3;Incomplete;60;
+APP00531;05/05/2024;RM002;B14;Produksi;Approved;Komite;29/05/2024;10/06/2024;;5,20;3,45;0;Complete;100;
+APP00532;27/02/2024;RM029;B04;Jasa;Rejected;Verifikasi;17/03/2024;;;2,63;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00533;27/05/2024;RM004;B05;Transportasi;Approved;Komite;15/06/2024;26/06/2024;02/07/2024;1,08;0,73;0;Complete;100;
+APP00534;12/11/2024;RM017;B12;Perdagangan;Approved;Komite;18/11/2024;26/11/2024;28/11/2024;2,27;1,68;2;Incomplete;75;
+APP00535;01/01/2024;RM003;B03;Jasa;Rejected;Verifikasi;18/01/2024;;;4,08;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00536;13/12/2024;RM013;B14;Produksi;Pending;Verifikasi;;;;1,83;0,00;0;Complete;100;
+APP00537;08/07/2024;RM009;B01;Produksi;Approved;Analisis;07/08/2024;19/08/2024;27/08/2024;1,67;1,29;0;Complete;100;
+APP00538;09/07/2024;RM007;B08;Jasa;Pending;Analisis;;;;2,65;0,00;2;Incomplete;70;
+APP00539;07/11/2024;RM015;B05;Pertanian;Approved;Komite;03/12/2024;09/12/2024;14/12/2024;1,42;1,00;1;Complete;90;
+APP00540;26/04/2024;RM023;B03;Perdagangan;Pending;Verifikasi;;;;2,37;0,00;0;Complete;100;
+APP00541;13/05/2024;RM029;B10;Produksi;Pending;Analisis;;;;2,06;0,00;4;Incomplete;40;
+APP00542;27/02/2024;RM029;B14;Produksi;Pending;Analisis;;;;1,48;0,00;0;Complete;100;
+APP00543;13/02/2024;RM011;B07;Konstruksi;Approved;Komite;06/03/2024;19/03/2024;29/03/2024;3,57;2,20;1;Complete;90;
+APP00544;21/06/2024;RM020;B07;Pertanian;Rejected;Analisis;30/06/2024;;;2,92;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00545;08/06/2024;RM002;B01;Perdagangan;Approved;Komite;30/06/2024;04/07/2024;06/07/2024;1,60;1,32;1;Complete;90;
+APP00546;21/06/2024;RM015;B12;Perdagangan;Approved;Analisis;18/07/2024;31/07/2024;;1,97;1,50;1;Complete;90;
+APP00547;12/11/2024;RM014;B09;Transportasi;Approved;Komite;19/12/2024;29/12/2024;;1,68;1,44;0;Complete;100;
+APP00548;29/10/2024;RM020;B15;Jasa;Approved;Analisis;28/11/2024;12/12/2024;18/12/2024;1,35;1,11;3;Incomplete;60;
+APP00549;28/05/2024;RM022;B02;Konstruksi;Approved;Analisis;06/07/2024;13/07/2024;19/07/2024;0,72;0,50;1;Complete;90;
+APP00550;20/03/2024;RM011;B05;Perdagangan;Rejected;Verifikasi;15/04/2024;;;1,48;0,00;3;Incomplete;45;Sektor Risiko Tinggi
+APP00551;31/07/2024;RM027;B13;Produksi;Rejected;Verifikasi;06/08/2024;;;1,36;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00552;21/07/2024;RM003;B14;Pertanian;Approved;Komite;02/08/2024;15/08/2024;19/08/2024;2,12;2,02;1;Complete;90;
+APP00553;08/09/2024;RM017;B05;Konstruksi;Approved;Komite;29/09/2024;08/10/2024;15/10/2024;2,58;2,54;3;Incomplete;60;
+APP00554;16/08/2024;RM030;B14;Perdagangan;Approved;Analisis;01/09/2024;05/09/2024;06/09/2024;1,23;1,18;5;Incomplete;30;
+APP00555;12/06/2024;RM012;B08;Produksi;Approved;Komite;03/07/2024;08/07/2024;;2,48;2,20;0;Complete;100;
+APP00556;14/08/2024;RM024;B14;Jasa;Approved;Analisis;21/08/2024;24/08/2024;01/09/2024;1,12;0,93;3;Incomplete;60;
+APP00557;26/05/2024;RM028;B08;Perdagangan;Rejected;Analisis;06/06/2024;;;1,84;0,00;0;Complete;90;Cashflow Lemah
+APP00558;20/01/2024;RM029;B14;Produksi;Approved;Analisis;21/02/2024;24/02/2024;27/02/2024;1,38;1,35;1;Complete;90;
+APP00559;16/02/2024;RM021;B07;Produksi;Approved;Komite;14/03/2024;21/03/2024;30/03/2024;3,10;2,17;0;Complete;100;
+APP00560;20/08/2024;RM015;B07;Konstruksi;Approved;Komite;14/09/2024;24/09/2024;;2,13;1,73;2;Incomplete;75;
+APP00561;31/10/2024;RM016;B12;Jasa;Rejected;Analisis;02/12/2024;;;1,86;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00562;14/01/2024;RM005;B11;Perdagangan;Pending;Verifikasi;;;;1,36;0,00;0;Complete;100;
+APP00563;22/05/2024;RM027;B06;Perdagangan;Rejected;Analisis;28/06/2024;;;1,63;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00564;01/01/2024;RM020;B06;Jasa;Pending;Verifikasi;;;;5,94;0,00;0;Complete;100;
+APP00565;23/02/2024;RM006;B11;Perdagangan;Approved;Komite;06/03/2024;10/03/2024;16/03/2024;1,47;1,35;4;Incomplete;45;
+APP00566;15/09/2024;RM019;B09;Pertanian;Approved;Analisis;14/10/2024;18/10/2024;28/10/2024;2,64;2,09;5;Incomplete;30;
+APP00567;23/05/2024;RM025;B06;Jasa;Pending;Verifikasi;;;;1,85;0,00;3;Incomplete;55;
+APP00568;12/01/2024;RM005;B12;Konstruksi;Approved;Analisis;29/01/2024;04/02/2024;09/02/2024;2,60;1,93;0;Complete;100;
+APP00569;25/11/2024;RM003;B13;Transportasi;Pending;Analisis;;;;3,28;0,00;1;Complete;85;
+APP00570;11/08/2024;RM027;B13;Produksi;Approved;Komite;01/09/2024;12/09/2024;21/09/2024;1,60;1,30;2;Incomplete;75;
+APP00571;28/09/2024;RM001;B02;Konstruksi;Approved;Komite;05/10/2024;10/10/2024;19/10/2024;3,04;2,55;4;Incomplete;45;
+APP00572;23/12/2024;RM026;B02;Pertanian;Approved;Analisis;23/03/2025;02/02/2025;12/02/2025;10,37;6,35;1;Complete;90;
+APP00573;04/06/2024;RM028;B13;Jasa;Pending;Analisis;;;;2,79;0,00;3;Incomplete;55;
+APP00574;08/01/2024;RM006;B05;Perdagangan;Pending;Verifikasi;;;;5,22;0,00;5;Incomplete;25;
+APP00575;01/05/2024;RM015;B15;Jasa;Approved;Analisis;06/05/2024;16/05/2024;17/05/2024;2,65;2,04;3;Incomplete;60;
+APP00576;13/12/2024;RM002;B04;Jasa;Approved;Analisis;20/01/2025;28/01/2025;30/01/2025;1,13;0,91;0;Complete;100;
+APP00577;12/06/2024;RM029;B11;Konstruksi;Approved;Komite;21/07/2024;03/08/2024;13/08/2024;2,34;1,46;0;Complete;100;
+APP00578;30/03/2024;RM003;B02;Jasa;Approved;Komite;16/04/2024;30/04/2024;01/05/2024;1,63;1,52;1;Complete;90;
+APP00579;15/05/2024;RM017;B15;Konstruksi;Approved;Komite;13/08/2024;26/06/2024;01/07/2024;1,39;1,27;1;Complete;90;
+APP00580;04/07/2024;RM025;B15;Produksi;Approved;Komite;05/08/2024;16/08/2024;26/08/2024;1,90;1,28;0;Complete;100;
+APP00581;11/11/2024;RM024;B03;Perdagangan;Approved;Analisis;20/11/2024;29/11/2024;30/11/2024;1,81;1,55;0;Complete;100;
+APP00582;26/06/2024;RM012;B07;Transportasi;Approved;Komite;22/07/2024;03/08/2024;06/08/2024;1,05;0,97;2;Incomplete;75;
+APP00583;28/01/2024;RM018;B08;Jasa;Approved;Analisis;22/02/2024;07/03/2024;17/03/2024;10,07;8,62;1;Complete;90;
+APP00584;07/08/2024;RM015;B12;Jasa;Approved;Komite;19/08/2024;02/09/2024;09/09/2024;3,22;2,33;0;Complete;100;
+APP00585;22/12/2024;RM012;B13;Produksi;Approved;Komite;15/01/2025;20/01/2025;;2,30;1,98;2;Incomplete;75;
+APP00586;10/02/2024;RM016;B06;Perdagangan;Approved;Komite;18/03/2024;27/03/2024;28/03/2024;2,09;1,43;2;Incomplete;75;
+APP00587;15/08/2024;RM027;B11;Produksi;Approved;Analisis;08/09/2024;21/09/2024;23/09/2024;4,08;2,97;2;Incomplete;75;
+APP00588;10/07/2024;RM008;B05;Jasa;Pending;Analisis;;;;6,89;0,00;0;Complete;100;
+APP00589;24/05/2024;RM028;B13;Jasa;Approved;Komite;24/06/2024;28/06/2024;06/07/2024;2,99;2,46;2;Incomplete;75;
+APP00590;19/07/2024;RM014;B01;Transportasi;Approved;Analisis;13/08/2024;23/08/2024;26/08/2024;2,13;1,37;1;Complete;90;
+APP00591;30/07/2024;RM025;B08;Jasa;Approved;Komite;29/08/2024;10/09/2024;14/09/2024;4,80;4,67;0;Complete;100;
+APP00592;07/08/2024;RM017;B03;Perdagangan;Pending;Analisis;;;;2,16;0,00;2;Incomplete;70;
+APP00593;27/08/2024;RM029;B15;Jasa;Rejected;Verifikasi;19/09/2024;;;2,57;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00594;15/02/2024;RM021;B06;Konstruksi;Pending;Verifikasi;;;;3,62;0,00;0;Complete;100;
+APP00595;04/02/2024;RM008;B03;Perdagangan;Pending;Verifikasi;;;;1,57;0,00;1;Complete;85;
+APP00596;09/09/2024;RM015;B07;Perdagangan;Approved;Analisis;19/10/2024;28/10/2024;07/11/2024;0,57;0,46;0;Complete;100;
+APP00597;22/03/2024;RM027;B13;Perdagangan;Pending;Verifikasi;;;;1,53;0,00;0;Complete;100;
+APP00598;12/09/2024;RM014;B14;Perdagangan;Pending;Analisis;;;;3,15;0,00;3;Incomplete;55;
+APP00599;15/07/2024;RM018;B07;Pertanian;Approved;Analisis;28/07/2024;04/08/2024;05/08/2024;3,02;2,13;0;Complete;100;
+APP00600;29/10/2024;RM020;B12;Produksi;Approved;Komite;15/11/2024;18/11/2024;27/11/2024;4,44;3,44;5;Incomplete;30;
+APP00601;10/01/2024;RM007;B15;Jasa;Approved;Komite;10/02/2024;24/02/2024;01/03/2024;1,56;0,95;1;Complete;90;
+APP00602;07/11/2024;RM003;B09;Produksi;Rejected;Verifikasi;06/12/2024;;;5,12;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00603;12/10/2024;RM029;B05;Jasa;Approved;Analisis;28/10/2024;05/11/2024;13/11/2024;2,22;1,88;0;Complete;100;
+APP00604;29/08/2024;RM012;B15;Transportasi;Pending;Analisis;;;;2,85;0,00;1;Complete;85;
+APP00605;07/09/2024;RM021;B08;Transportasi;Approved;Analisis;01/10/2024;07/10/2024;13/10/2024;3,41;2,79;2;Incomplete;75;
+APP00606;05/01/2024;RM024;B10;Jasa;Approved;Komite;04/02/2024;14/02/2024;22/02/2024;0,87;0,73;0;Complete;100;
+APP00607;28/04/2024;RM028;B10;Konstruksi;Approved;Komite;07/06/2024;17/06/2024;23/06/2024;1,08;1,05;0;Complete;100;
+APP00608;15/10/2024;RM026;B08;Pertanian;Approved;Komite;20/10/2024;26/10/2024;31/10/2024;1,06;0,64;3;Incomplete;60;
+APP00609;05/03/2024;RM003;B01;Perdagangan;Rejected;Analisis;29/03/2024;;;3,77;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00610;25/05/2024;RM020;B12;Perdagangan;Pending;Verifikasi;;;;1,65;0,00;3;Incomplete;55;
+APP00611;11/08/2024;RM014;B05;Jasa;Approved;Komite;03/09/2024;11/09/2024;15/09/2024;6,69;4,46;2;Incomplete;75;
+APP00612;26/08/2024;RM015;B03;Pertanian;Rejected;Verifikasi;13/09/2024;;;1,99;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00613;25/06/2024;RM025;B01;Transportasi;Approved;Komite;27/07/2024;31/07/2024;05/08/2024;0,82;0,71;0;Complete;100;
+APP00614;23/09/2024;RM030;B04;Pertanian;Rejected;Verifikasi;18/10/2024;;;1,32;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00615;06/12/2024;RM014;B08;Konstruksi;Approved;Analisis;09/01/2025;22/01/2025;26/01/2025;2,13;2,12;3;Incomplete;60;
+APP00616;08/10/2024;RM007;B03;Produksi;Approved;Analisis;10/11/2024;18/11/2024;23/11/2024;2,70;1,87;0;Complete;100;
+APP00617;03/03/2024;RM017;B10;Pertanian;Approved;Analisis;01/06/2024;16/04/2024;20/04/2024;1,10;0,80;0;Complete;100;
+APP00618;04/08/2024;RM030;B02;Pertanian;Approved;Komite;22/08/2024;04/09/2024;12/09/2024;2,79;2,77;1;Complete;90;
+APP00619;07/12/2024;RM012;B11;Jasa;Approved;Analisis;13/01/2025;21/01/2025;27/01/2025;3,27;3,05;0;Complete;100;
+APP00620;10/11/2024;RM020;B09;Jasa;Pending;Analisis;;;;1,35;0,00;1;Complete;85;
+APP00621;09/10/2024;RM004;B10;Pertanian;Rejected;Verifikasi;13/11/2024;;;6,46;0,00;3;Incomplete;45;Cashflow Lemah
+APP00622;25/06/2024;RM009;B05;Perdagangan;Pending;Verifikasi;;;;1,44;0,00;1;Complete;85;
+APP00623;07/04/2024;RM006;B14;Pertanian;Approved;Analisis;22/04/2024;25/04/2024;30/04/2024;1,09;0,86;4;Incomplete;45;
+APP00624;14/04/2024;RM016;B07;Perdagangan;Approved;Komite;24/04/2024;03/05/2024;13/05/2024;0,79;0,54;3;Incomplete;60;
+APP00625;08/04/2024;RM025;B11;Jasa;Approved;Komite;01/05/2024;08/05/2024;15/05/2024;4,12;3,84;0;Complete;100;
+APP00626;06/11/2024;RM028;B11;Pertanian;Approved;Komite;13/12/2024;19/12/2024;26/12/2024;2,01;1,64;1;Complete;90;
+APP00627;06/01/2024;RM022;B02;Perdagangan;Pending;Analisis;;;;1,49;0,00;1;Complete;85;
+APP00628;15/07/2024;RM022;B09;Perdagangan;Approved;Analisis;10/08/2024;14/08/2024;17/08/2024;0,82;0,66;2;Incomplete;75;
+APP00629;16/12/2024;RM021;B13;Jasa;Approved;Analisis;26/12/2024;05/01/2025;10/01/2025;1,57;1,20;0;Complete;100;
+APP00630;12/05/2024;RM021;B09;Konstruksi;Approved;Komite;01/06/2024;05/06/2024;07/06/2024;8,28;7,87;4;Incomplete;45;
+APP00631;23/12/2024;RM002;B04;Perdagangan;Rejected;Verifikasi;16/01/2025;;;0,55;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00632;15/09/2024;RM024;B04;Konstruksi;Approved;Analisis;04/10/2024;17/10/2024;25/10/2024;1,36;1,29;1;Complete;90;
+APP00633;23/01/2024;RM008;B06;Perdagangan;Approved;Komite;09/02/2024;15/02/2024;23/02/2024;5,81;4,68;2;Incomplete;75;
+APP00634;22/02/2024;RM011;B10;Transportasi;Approved;Analisis;07/03/2024;20/03/2024;29/03/2024;4,19;3,19;1;Complete;90;
+APP00635;13/06/2024;RM013;B10;Transportasi;Approved;Komite;19/06/2024;02/07/2024;11/07/2024;1,41;0,94;3;Incomplete;60;
+APP00636;20/07/2024;RM017;B10;Jasa;Approved;Analisis;27/07/2024;08/08/2024;11/08/2024;2,24;1,97;1;Complete;90;
+APP00637;23/03/2024;RM008;B06;Jasa;Approved;Komite;12/04/2024;15/04/2024;;2,62;2,54;0;Complete;100;
+APP00638;24/05/2024;RM021;B12;Jasa;Pending;Analisis;;;;2,15;0,00;0;Complete;100;
+APP00639;25/03/2024;RM018;B01;Produksi;Approved;Komite;29/04/2024;02/05/2024;06/05/2024;5,78;4,03;3;Incomplete;60;
+APP00640;18/03/2024;RM030;B14;Perdagangan;Pending;Analisis;;;;2,43;0,00;1;Complete;85;
+APP00641;01/01/2024;RM018;B14;Perdagangan;Rejected;Verifikasi;10/01/2024;;;3,92;0,00;4;Incomplete;30;Cashflow Lemah
+APP00642;20/02/2024;RM014;B09;Perdagangan;Pending;Analisis;;;;2,21;0,00;0;Complete;100;
+APP00643;21/06/2024;RM015;B02;Jasa;Approved;Komite;25/07/2024;09/08/2024;18/08/2024;0,59;0,50;0;Complete;100;
+APP00644;23/07/2024;RM006;B05;Perdagangan;Approved;Analisis;23/08/2024;31/08/2024;04/09/2024;0,97;0,81;0;Complete;100;
+APP00645;16/09/2024;RM011;B09;Produksi;Pending;Analisis;;;;1,10;0,00;1;Complete;85;
+APP00646;14/10/2024;RM013;B04;Transportasi;Pending;Analisis;;;;1,71;0,00;1;Complete;85;
+APP00647;03/02/2024;RM025;B11;Jasa;Approved;Komite;20/02/2024;26/02/2024;;6,90;4,82;0;Complete;100;
+APP00648;13/12/2024;RM001;B03;Jasa;Pending;Verifikasi;;;;2,46;0,00;2;Incomplete;70;
+APP00649;04/04/2024;RM028;B15;Jasa;Approved;Analisis;03/05/2024;08/05/2024;16/05/2024;1,86;1,59;1;Complete;90;
+APP00650;12/03/2024;RM006;B07;Pertanian;Approved;Komite;17/04/2024;02/05/2024;;4,17;3,39;0;Complete;100;
+APP00651;08/02/2024;RM009;B06;Konstruksi;Approved;Komite;09/03/2024;21/03/2024;22/03/2024;0,83;0,63;1;Complete;90;
+APP00652;02/06/2024;RM008;B08;Konstruksi;Approved;Komite;22/06/2024;28/06/2024;01/07/2024;1,48;1,06;2;Incomplete;75;
+APP00653;06/09/2024;RM011;B03;Transportasi;Approved;Komite;20/09/2024;24/09/2024;02/10/2024;1,35;1,25;0;Complete;100;
+APP00654;10/06/2024;RM022;B05;Perdagangan;Pending;Analisis;;;;2,52;0,00;0;Complete;100;
+APP00655;27/04/2024;RM019;B10;Pertanian;Approved;Komite;02/05/2024;17/05/2024;21/05/2024;3,39;2,71;0;Complete;100;
+APP00656;15/09/2024;RM024;B04;Pertanian;Approved;Analisis;26/09/2024;07/10/2024;12/10/2024;2,63;2,13;2;Incomplete;75;
+APP00657;01/11/2024;RM009;B15;Perdagangan;Approved;Analisis;03/12/2024;09/12/2024;10/12/2024;2,66;2,07;3;Incomplete;60;
+APP00658;24/09/2024;RM017;B13;Transportasi;Approved;Komite;13/10/2024;25/10/2024;27/10/2024;1,60;1,12;1;Complete;90;
+APP00659;23/02/2024;RM012;B04;Perdagangan;Approved;Komite;10/03/2024;16/03/2024;20/03/2024;2,40;1,56;0;Complete;100;
+APP00660;23/08/2024;RM025;B04;Produksi;Pending;Analisis;;;;1,20;0,00;3;Incomplete;55;
+APP00661;09/08/2024;RM014;B10;Perdagangan;Pending;Analisis;;;;2,97;0,00;5;Incomplete;25;
+APP00662;07/09/2024;RM015;B08;Jasa;Pending;Analisis;;;;1,47;0,00;2;Incomplete;70;
+APP00663;08/11/2024;RM016;B06;Produksi;Pending;Verifikasi;;;;1,01;0,00;5;Incomplete;25;
+APP00664;21/04/2024;RM022;B03;Jasa;Approved;Analisis;29/05/2024;04/06/2024;05/06/2024;2,03;1,87;2;Incomplete;75;
+APP00665;11/09/2024;RM022;B10;Jasa;Approved;Komite;15/10/2024;23/10/2024;26/10/2024;0,63;0,42;2;Incomplete;75;
+APP00666;29/10/2024;RM028;B05;Perdagangan;Approved;Komite;06/11/2024;21/11/2024;24/11/2024;4,80;4,08;1;Complete;90;
+APP00667;25/07/2024;RM020;B06;Pertanian;Approved;Komite;03/09/2024;08/09/2024;09/09/2024;3,20;2,35;1;Complete;90;
+APP00668;16/08/2024;RM001;B05;Perdagangan;Rejected;Analisis;05/09/2024;;;2,43;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00669;06/12/2024;RM010;B06;Jasa;Approved;Komite;18/12/2024;02/01/2025;09/01/2025;0,75;0,57;3;Incomplete;60;
+APP00670;06/03/2024;RM008;B08;Konstruksi;Approved;Analisis;09/04/2024;21/04/2024;24/04/2024;1,30;0,79;4;Incomplete;45;
+APP00671;15/03/2024;RM018;B07;Pertanian;Rejected;Verifikasi;28/03/2024;;;2,03;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00672;12/04/2024;RM028;B05;Jasa;Rejected;Analisis;16/05/2024;;;1,69;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00673;10/07/2024;RM001;B10;Pertanian;Pending;Verifikasi;;;;0,72;0,00;0;Complete;100;
+APP00674;08/09/2024;RM002;B06;Pertanian;Approved;Analisis;16/10/2024;19/10/2024;24/10/2024;0,90;0,63;0;Complete;100;
+APP00675;13/08/2024;RM001;B14;Konstruksi;Approved;Analisis;22/09/2024;29/09/2024;30/09/2024;1,67;1,30;0;Complete;100;
+APP00676;20/10/2024;RM001;B04;Jasa;Approved;Analisis;14/11/2024;19/11/2024;29/11/2024;0,92;0,62;2;Incomplete;75;
+APP00677;01/11/2024;RM009;B12;Perdagangan;Approved;Analisis;04/12/2024;09/12/2024;;4,51;3,19;4;Incomplete;45;
+APP00678;07/04/2024;RM013;B09;Perdagangan;Approved;Komite;14/05/2024;25/05/2024;30/05/2024;2,67;2,17;0;Complete;100;
+APP00679;03/12/2024;RM030;B13;Perdagangan;Approved;Analisis;04/01/2025;11/01/2025;20/01/2025;1,22;1,14;0;Complete;100;
+APP00680;12/10/2024;RM001;B04;Jasa;Rejected;Analisis;21/11/2024;;;4,00;0,00;2;Incomplete;75;Sektor Risiko Tinggi
+APP00681;30/11/2024;RM013;B01;Perdagangan;Approved;Analisis;02/01/2025;17/01/2025;20/01/2025;3,54;3,14;0;Complete;100;
+APP00682;12/12/2024;RM020;B07;Produksi;Pending;Verifikasi;;;;2,36;0,00;3;Incomplete;55;
+APP00683;03/11/2024;RM026;B07;Jasa;Pending;Analisis;;;;1,94;0,00;0;Complete;100;
+APP00684;05/09/2024;RM022;B04;Perdagangan;Approved;Analisis;20/09/2024;25/09/2024;03/10/2024;1,66;1,53;0;Complete;100;
+APP00685;14/06/2024;RM007;B13;Konstruksi;Pending;Verifikasi;;;;1,43;0,00;0;Complete;100;
+APP00686;30/11/2024;RM002;B14;Jasa;Approved;Komite;04/01/2025;08/01/2025;10/01/2025;0,89;0,66;0;Complete;100;
+APP00687;30/01/2024;RM006;B03;Perdagangan;Approved;Komite;03/03/2024;16/03/2024;24/03/2024;4,96;4,94;1;Complete;90;
+APP00688;03/09/2024;RM007;B08;Pertanian;Pending;Verifikasi;;;;1,45;0,00;0;Complete;100;
+APP00689;15/04/2024;RM026;B05;Perdagangan;Approved;Komite;06/05/2024;09/05/2024;12/05/2024;2,02;1,42;1;Complete;90;
+APP00690;20/02/2024;RM014;B10;Produksi;Rejected;Verifikasi;11/03/2024;;;1,15;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00691;21/03/2024;RM026;B07;Pertanian;Approved;Komite;12/04/2024;17/04/2024;;1,70;1,32;0;Complete;100;
+APP00692;12/05/2024;RM018;B04;Jasa;Pending;Verifikasi;;;;10,97;0,00;0;Complete;100;
+APP00693;11/10/2024;RM015;B04;Pertanian;Approved;Analisis;18/11/2024;21/11/2024;26/11/2024;1,28;0,86;1;Complete;90;
+APP00694;17/05/2024;RM002;B08;Jasa;Approved;Analisis;22/06/2024;30/06/2024;04/07/2024;4,73;4,29;2;Incomplete;75;
+APP00695;02/07/2024;RM010;B14;Jasa;Approved;Analisis;22/07/2024;06/08/2024;13/08/2024;1,95;1,78;4;Incomplete;45;
+APP00696;25/11/2024;RM023;B08;Perdagangan;Pending;Verifikasi;;;;2,98;0,00;0;Complete;100;
+APP00697;29/09/2024;RM012;B02;Perdagangan;Rejected;Verifikasi;21/10/2024;;;4,18;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00698;05/12/2024;RM017;B14;Konstruksi;Rejected;Verifikasi;07/01/2025;;;2,33;0,00;0;Complete;90;Cashflow Lemah
+APP00699;09/03/2024;RM008;B02;Jasa;Approved;Analisis;18/03/2024;02/04/2024;11/04/2024;1,61;1,11;1;Complete;90;
+APP00700;03/02/2024;RM011;B03;Jasa;Pending;Analisis;;;;1,77;0,00;2;Incomplete;70;
+APP00701;18/09/2024;RM029;B15;Jasa;Pending;Analisis;;;;1,81;0,00;3;Incomplete;55;
+APP00702;22/02/2024;RM003;B12;Jasa;Pending;Analisis;;;;6,07;0,00;2;Incomplete;70;
+APP00703;23/07/2024;RM027;B12;Perdagangan;Approved;Komite;15/08/2024;21/08/2024;28/08/2024;0,81;0,51;0;Complete;100;
+APP00704;05/05/2024;RM006;B03;Jasa;Pending;Analisis;;;;0,69;0,00;1;Complete;85;
+APP00705;22/08/2024;RM009;B01;Produksi;Rejected;Verifikasi;11/09/2024;;;0,71;0,00;4;Incomplete;30;Dokumen Tidak Lengkap
+APP00706;12/02/2024;RM006;B15;Perdagangan;Approved;Analisis;05/03/2024;17/03/2024;20/03/2024;1,16;1,00;0;Complete;100;
+APP00707;27/08/2024;RM009;B14;Perdagangan;Rejected;Verifikasi;22/09/2024;;;3,02;0,00;1;Complete;75;Cashflow Lemah
+APP00708;20/04/2024;RM007;B03;Perdagangan;Pending;Verifikasi;;;;3,13;0,00;4;Incomplete;40;
+APP00709;05/09/2024;RM009;B06;Jasa;Approved;Komite;30/09/2024;08/10/2024;16/10/2024;1,38;1,32;2;Incomplete;75;
+APP00710;30/05/2024;RM018;B08;Konstruksi;Approved;Komite;08/07/2024;11/07/2024;15/07/2024;1,95;1,57;2;Incomplete;75;
+APP00711;01/07/2024;RM012;B13;Perdagangan;Approved;Komite;11/07/2024;16/07/2024;;1,01;0,94;0;Complete;100;
+APP00712;01/12/2024;RM008;B12;Perdagangan;Approved;Analisis;14/12/2024;21/12/2024;29/12/2024;1,07;0,99;1;Complete;90;
+APP00713;04/04/2024;RM008;B14;Perdagangan;Rejected;Verifikasi;18/04/2024;;;2,81;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00714;08/01/2024;RM018;B10;Produksi;Approved;Analisis;27/01/2024;30/01/2024;05/02/2024;3,72;3,48;2;Incomplete;75;
+APP00715;25/12/2024;RM028;B06;Produksi;Rejected;Analisis;23/01/2025;;;1,49;0,00;0;Complete;90;Cashflow Lemah
+APP00716;02/07/2024;RM030;B05;Jasa;Rejected;Analisis;16/07/2024;;;5,29;0,00;3;Incomplete;45;Cashflow Lemah
+APP00717;07/10/2024;RM020;B15;Pertanian;Approved;Analisis;25/10/2024;30/10/2024;09/11/2024;3,54;2,79;3;Incomplete;60;
+APP00718;13/07/2024;RM030;B04;Produksi;Rejected;Verifikasi;22/07/2024;;;5,15;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00719;17/12/2024;RM015;B03;Konstruksi;Rejected;Analisis;17/01/2025;;;1,66;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00720;13/07/2024;RM027;B13;Pertanian;Pending;Analisis;;;;4,94;0,00;0;Complete;100;
+APP00721;03/06/2024;RM007;B04;Perdagangan;Pending;Verifikasi;;;;7,33;0,00;3;Incomplete;55;
+APP00722;02/04/2024;RM011;B14;Perdagangan;Rejected;Analisis;03/05/2024;;;1,55;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00723;08/06/2024;RM020;B07;Perdagangan;Pending;Analisis;;;;1,81;0,00;2;Incomplete;70;
+APP00724;01/03/2024;RM016;B01;Perdagangan;Approved;Komite;27/03/2024;10/04/2024;;1,12;0,97;0;Complete;100;
+APP00725;01/05/2024;RM004;B07;Transportasi;Rejected;Analisis;09/06/2024;;;1,00;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00726;20/02/2024;RM006;B01;Jasa;Pending;Analisis;;;;1,00;0,00;2;Incomplete;70;
+APP00727;03/10/2024;RM026;B02;Perdagangan;Pending;Verifikasi;;;;1,22;0,00;1;Complete;85;
+APP00728;05/01/2024;RM022;B15;Pertanian;Approved;Analisis;08/02/2024;17/02/2024;21/02/2024;2,34;1,49;2;Incomplete;75;
+APP00729;01/04/2024;RM026;B04;Jasa;Pending;Analisis;;;;1,25;0,00;3;Incomplete;55;
+APP00730;18/06/2024;RM003;B01;Perdagangan;Approved;Analisis;19/07/2024;30/07/2024;;2,30;2,11;0;Complete;100;
+APP00731;12/11/2024;RM009;B11;Jasa;Rejected;Verifikasi;20/11/2024;;;2,32;0,00;0;Complete;90;Cashflow Lemah
+APP00732;22/01/2024;RM028;B12;Jasa;Approved;Komite;09/02/2024;13/02/2024;;1,50;1,10;1;Complete;90;
+APP00733;21/11/2024;RM010;B11;Pertanian;Approved;Komite;22/12/2024;05/01/2025;12/01/2025;1,91;1,19;0;Complete;100;
+APP00734;01/01/2024;RM014;B15;Perdagangan;Approved;Komite;30/01/2024;03/02/2024;08/02/2024;1,44;0,97;2;Incomplete;75;
+APP00735;12/05/2024;RM011;B11;Perdagangan;Approved;Analisis;18/05/2024;28/05/2024;02/06/2024;1,65;1,50;2;Incomplete;75;
+APP00736;20/08/2024;RM018;B09;Jasa;Pending;Verifikasi;;;;1,22;0,00;3;Incomplete;55;
+APP00737;12/01/2024;RM022;B12;Perdagangan;Rejected;Verifikasi;10/02/2024;;;2,09;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00738;11/12/2024;RM012;B06;Produksi;Rejected;Analisis;15/01/2025;;;1,38;0,00;0;Complete;75;Cashflow Lemah
+APP00739;15/02/2024;RM023;B13;Jasa;Approved;Komite;20/02/2024;01/03/2024;05/03/2024;0,98;0,69;0;Complete;100;
+APP00740;03/02/2024;RM012;B01;Jasa;Approved;Komite;01/03/2024;16/03/2024;19/03/2024;2,83;2,09;3;Incomplete;60;
+APP00741;18/03/2024;RM013;B01;Konstruksi;Rejected;Verifikasi;11/04/2024;;;2,89;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00742;05/08/2024;RM025;B06;Produksi;Rejected;Verifikasi;03/09/2024;;;3,86;0,00;2;Incomplete;60;Cashflow Lemah
+APP00743;27/10/2024;RM013;B04;Perdagangan;Approved;Komite;27/11/2024;05/12/2024;13/12/2024;1,07;1,03;3;Incomplete;60;
+APP00744;13/03/2024;RM019;B04;Jasa;Approved;Komite;21/04/2024;02/05/2024;12/05/2024;1,49;1,25;0;Complete;100;
+APP00745;08/10/2024;RM026;B15;Pertanian;Approved;Komite;16/11/2024;28/11/2024;07/12/2024;2,28;1,82;0;Complete;100;
+APP00746;05/09/2024;RM019;B11;Produksi;Rejected;Analisis;24/09/2024;;;1,47;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00747;16/02/2024;RM023;B15;Perdagangan;Pending;Verifikasi;;;;2,79;0,00;3;Incomplete;55;
+APP00748;30/04/2024;RM014;B06;Transportasi;Approved;Komite;05/06/2024;09/06/2024;18/06/2024;2,67;1,98;0;Complete;100;
+APP00749;01/08/2024;RM004;B15;Jasa;Approved;Komite;20/08/2024;30/08/2024;03/09/2024;2,64;1,85;4;Incomplete;45;
+APP00750;26/08/2024;RM013;B14;Perdagangan;Rejected;Verifikasi;17/09/2024;;;4,76;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00751;25/02/2024;RM008;B12;Perdagangan;Approved;Komite;28/03/2024;08/04/2024;18/04/2024;2,92;2,33;5;Incomplete;30;
+APP00752;15/12/2024;RM029;B11;Perdagangan;Approved;Komite;20/01/2025;26/01/2025;28/01/2025;2,17;2,16;0;Complete;100;
+APP00753;16/04/2024;RM023;B07;Pertanian;Pending;Verifikasi;;;;1,77;0,00;0;Complete;100;
+APP00754;14/11/2024;RM021;B09;Perdagangan;Approved;Komite;20/11/2024;02/12/2024;11/12/2024;1,84;1,16;3;Incomplete;60;
+APP00755;17/02/2024;RM023;B10;Perdagangan;Approved;Analisis;17/03/2024;20/03/2024;22/03/2024;1,05;1,04;3;Incomplete;60;
+APP00756;01/03/2024;RM019;B05;Konstruksi;Rejected;Verifikasi;27/03/2024;;;0,69;0,00;1;Complete;75;Cashflow Lemah
+APP00757;02/12/2024;RM012;B09;Perdagangan;Rejected;Verifikasi;01/01/2025;;;2,62;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00758;26/01/2024;RM018;B04;Perdagangan;Rejected;Verifikasi;10/02/2024;;;4,13;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP00759;18/10/2024;RM006;B13;Perdagangan;Rejected;Analisis;21/11/2024;;;1,63;0,00;0;Complete;90;Cashflow Lemah
+APP00760;13/09/2024;RM018;B10;Perdagangan;Pending;Verifikasi;;;;5,14;0,00;1;Complete;85;
+APP00761;08/01/2024;RM019;B02;Perdagangan;Rejected;Analisis;21/01/2024;;;1,78;0,00;3;Incomplete;45;Agunan Tidak Cukup
+APP00762;22/04/2024;RM022;B03;Produksi;Approved;Analisis;31/05/2024;14/06/2024;16/06/2024;0,61;0,50;1;Complete;90;
+APP00763;20/12/2024;RM005;B13;Perdagangan;Pending;Analisis;;;;3,44;0,00;0;Complete;100;
+APP00764;09/09/2024;RM024;B11;Perdagangan;Rejected;Verifikasi;15/09/2024;;;1,49;0,00;3;Incomplete;45;Sektor Risiko Tinggi
+APP00765;28/06/2024;RM009;B01;Pertanian;Approved;Komite;28/07/2024;12/08/2024;;3,63;3,23;0;Complete;100;
+APP00766;25/07/2024;RM027;B14;Produksi;Approved;Analisis;31/07/2024;13/08/2024;22/08/2024;0,92;0,62;0;Complete;100;
+APP00767;29/10/2024;RM003;B14;Jasa;Approved;Komite;08/11/2024;19/11/2024;28/11/2024;2,54;2,12;4;Incomplete;45;
+APP00768;06/05/2024;RM028;B06;Jasa;Approved;Komite;07/06/2024;14/06/2024;;1,23;1,08;1;Complete;90;
+APP00769;25/02/2024;RM010;B13;Perdagangan;Approved;Analisis;09/03/2024;19/03/2024;28/03/2024;2,24;1,65;3;Incomplete;60;
+APP00770;01/08/2024;RM019;B06;Jasa;Rejected;Verifikasi;04/09/2024;;;3,14;0,00;3;Incomplete;45;Sektor Risiko Tinggi
+APP00771;14/01/2024;RM003;B01;Jasa;Rejected;Verifikasi;30/01/2024;;;2,73;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00772;28/01/2024;RM029;B11;Jasa;Approved;Analisis;05/02/2024;18/02/2024;22/02/2024;2,07;1,63;0;Complete;100;
+APP00773;18/03/2024;RM029;B13;Konstruksi;Approved;Analisis;08/04/2024;11/04/2024;19/04/2024;0,87;0,66;0;Complete;100;
+APP00774;03/08/2024;RM022;B03;Perdagangan;Approved;Analisis;01/09/2024;04/09/2024;;3,07;2,15;0;Complete;100;
+APP00775;02/06/2024;RM015;B05;Pertanian;Rejected;Analisis;27/06/2024;;;3,68;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00776;14/01/2024;RM001;B03;Perdagangan;Approved;Komite;01/02/2024;11/02/2024;12/02/2024;1,06;1,01;2;Incomplete;75;
+APP00777;05/07/2024;RM007;B10;Pertanian;Approved;Analisis;08/08/2024;17/08/2024;26/08/2024;1,16;0,85;1;Complete;90;
+APP00778;07/11/2024;RM012;B03;Produksi;Approved;Komite;02/12/2024;11/12/2024;21/12/2024;3,78;2,87;0;Complete;100;
+APP00779;07/01/2024;RM017;B14;Pertanian;Approved;Analisis;02/02/2024;15/02/2024;;1,75;1,33;1;Complete;90;
+APP00780;03/01/2024;RM030;B10;Perdagangan;Approved;Komite;01/02/2024;05/02/2024;10/02/2024;1,18;0,97;1;Complete;90;
+APP00781;20/04/2024;RM021;B03;Jasa;Rejected;Analisis;12/05/2024;;;2,34;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00782;25/08/2024;RM026;B05;Jasa;Pending;Analisis;;;;1,35;0,00;0;Complete;100;
+APP00783;26/08/2024;RM029;B13;Produksi;Pending;Verifikasi;;;;2,18;0,00;2;Incomplete;70;
+APP00784;30/09/2024;RM024;B05;Jasa;Approved;Analisis;31/10/2024;10/11/2024;17/11/2024;1,55;1,37;0;Complete;100;
+APP00785;20/10/2024;RM020;B04;Jasa;Pending;Verifikasi;;;;1,63;0,00;1;Complete;85;
+APP00786;14/08/2024;RM005;B01;Jasa;Pending;Analisis;;;;3,86;0,00;2;Incomplete;70;
+APP00787;15/01/2024;RM004;B05;Perdagangan;Approved;Analisis;05/02/2024;19/02/2024;20/02/2024;0,45;0,30;0;Complete;100;
+APP00788;10/07/2024;RM028;B10;Jasa;Pending;Verifikasi;;;;2,77;0,00;1;Complete;85;
+APP00789;28/04/2024;RM012;B05;Perdagangan;Approved;Komite;27/07/2024;18/05/2024;28/05/2024;3,50;2,36;0;Complete;100;
+APP00790;28/01/2024;RM030;B04;Transportasi;Rejected;Verifikasi;03/03/2024;;;1,37;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00791;20/07/2024;RM020;B06;Produksi;Approved;Analisis;26/07/2024;30/07/2024;;3,48;2,85;0;Complete;100;
+APP00792;08/02/2024;RM028;B10;Transportasi;Rejected;Analisis;18/03/2024;;;1,12;0,00;4;Incomplete;30;Agunan Tidak Cukup
+APP00793;29/09/2024;RM024;B04;Perdagangan;Approved;Komite;07/10/2024;11/10/2024;13/10/2024;1,33;0,82;1;Complete;90;
+APP00794;18/08/2024;RM018;B14;Konstruksi;Pending;Verifikasi;;;;1,25;0,00;5;Incomplete;25;
+APP00795;26/03/2024;RM017;B07;Pertanian;Pending;Analisis;;;;3,51;0,00;1;Complete;85;
+APP00796;05/05/2024;RM019;B07;Produksi;Pending;Verifikasi;;;;0,70;0,00;1;Complete;85;
+APP00797;26/10/2024;RM009;B02;Produksi;Approved;Analisis;22/11/2024;30/11/2024;01/12/2024;5,30;3,70;1;Complete;90;
+APP00798;25/01/2024;RM004;B03;Perdagangan;Approved;Komite;13/02/2024;25/02/2024;27/02/2024;1,65;1,40;0;Complete;100;
+APP00799;24/05/2024;RM026;B01;Pertanian;Pending;Verifikasi;;;;2,87;0,00;0;Complete;100;
+APP00800;13/01/2024;RM021;B08;Jasa;Approved;Analisis;22/01/2024;27/01/2024;04/02/2024;2,72;2,32;0;Complete;100;
+APP00801;30/07/2024;RM002;B09;Perdagangan;Approved;Komite;06/08/2024;10/08/2024;;2,17;2,05;1;Complete;90;
+APP00802;25/01/2024;RM004;B04;Perdagangan;Pending;Verifikasi;;;;1,38;0,00;0;Complete;100;
+APP00803;08/03/2024;RM002;B06;Konstruksi;Approved;Komite;14/03/2024;19/03/2024;22/03/2024;4,18;3,81;0;Complete;100;
+APP00804;07/03/2024;RM015;B09;Konstruksi;Approved;Komite;27/03/2024;03/04/2024;10/04/2024;1,46;1,16;0;Complete;100;
+APP00805;20/08/2024;RM002;B06;Transportasi;Approved;Komite;06/09/2024;18/09/2024;25/09/2024;1,28;1,06;1;Complete;90;
+APP00806;18/04/2024;RM004;B14;Produksi;Approved;Analisis;24/04/2024;07/05/2024;14/05/2024;3,36;2,89;2;Incomplete;75;
+APP00807;25/05/2024;RM006;B12;Perdagangan;Pending;Analisis;;;;2,16;0,00;3;Incomplete;55;
+APP00808;20/04/2024;RM007;B12;Perdagangan;Pending;Analisis;;;;4,48;0,00;0;Complete;100;
+APP00809;15/08/2024;RM010;B12;Perdagangan;Rejected;Verifikasi;29/08/2024;;;1,91;0,00;0;Complete;90;Cashflow Lemah
+APP00810;20/04/2024;RM019;B09;Perdagangan;Rejected;Verifikasi;10/05/2024;;;1,34;0,00;1;Complete;75;Cashflow Lemah
+APP00811;03/02/2024;RM019;B15;Jasa;Approved;Analisis;16/02/2024;28/02/2024;08/03/2024;2,34;2,33;3;Incomplete;60;
+APP00812;20/04/2024;RM026;B04;Perdagangan;Approved;Analisis;25/05/2024;05/06/2024;;1,52;1,35;0;Complete;100;
+APP00813;20/09/2024;RM022;B08;Jasa;Approved;Analisis;02/10/2024;16/10/2024;18/10/2024;1,37;1,16;2;Incomplete;75;
+APP00814;23/08/2024;RM029;B09;Konstruksi;Approved;Komite;10/09/2024;18/09/2024;27/09/2024;3,27;2,02;1;Complete;90;
+APP00815;23/03/2024;RM012;B04;Jasa;Rejected;Analisis;26/04/2024;;;5,95;0,00;0;Complete;90;Cashflow Lemah
+APP00816;11/02/2024;RM003;B05;Konstruksi;Approved;Komite;03/03/2024;12/03/2024;15/03/2024;1,71;1,58;0;Complete;100;
+APP00817;10/04/2024;RM013;B14;Produksi;Approved;Analisis;08/05/2024;20/05/2024;24/05/2024;1,10;0,95;0;Complete;100;
+APP00818;06/01/2024;RM018;B08;Perdagangan;Approved;Komite;21/01/2024;01/02/2024;02/02/2024;1,81;1,33;3;Incomplete;60;
+APP00819;28/06/2024;RM008;B12;Jasa;Pending;Verifikasi;;;;2,70;0,00;1;Complete;85;
+APP00820;08/10/2024;RM021;B10;Perdagangan;Pending;Verifikasi;;;;2,31;0,00;1;Complete;85;
+APP00821;15/11/2024;RM015;B14;Perdagangan;Approved;Komite;27/11/2024;04/12/2024;12/12/2024;4,06;3,60;1;Complete;90;
+APP00822;13/08/2024;RM001;B06;Produksi;Rejected;Analisis;28/08/2024;;;2,96;0,00;2;Incomplete;60;Cashflow Lemah
+APP00823;10/11/2024;RM003;B12;Perdagangan;Approved;Komite;04/12/2024;14/12/2024;23/12/2024;1,02;0,87;1;Complete;90;
+APP00824;16/08/2024;RM026;B07;Perdagangan;Approved;Komite;27/08/2024;07/09/2024;14/09/2024;1,47;1,05;0;Complete;100;
+APP00825;15/10/2024;RM008;B03;Jasa;Rejected;Verifikasi;21/10/2024;;;0,87;0,00;0;Complete;82;Cashflow Lemah
+APP00826;29/05/2024;RM004;B07;Transportasi;Approved;Komite;22/06/2024;04/07/2024;08/07/2024;3,94;3,21;0;Complete;100;
+APP00827;03/10/2024;RM016;B12;Pertanian;Rejected;Verifikasi;01/11/2024;;;0,60;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00828;16/07/2024;RM030;B14;Produksi;Rejected;Analisis;15/08/2024;;;0,92;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00829;10/03/2024;RM023;B08;Perdagangan;Pending;Verifikasi;;;;1,46;0,00;1;Complete;85;
+APP00830;21/04/2024;RM010;B10;Pertanian;Pending;Analisis;;;;2,78;0,00;0;Complete;100;
+APP00831;04/01/2024;RM012;B06;Pertanian;Approved;Komite;21/01/2024;30/01/2024;02/02/2024;1,45;1,36;4;Incomplete;45;
+APP00832;15/12/2024;RM014;B15;Produksi;Rejected;Analisis;24/12/2024;;;1,59;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00833;26/11/2024;RM014;B10;Transportasi;Approved;Komite;16/12/2024;20/12/2024;22/12/2024;1,61;1,17;0;Complete;100;
+APP00834;13/11/2024;RM002;B09;Perdagangan;Pending;Verifikasi;;;;2,20;0,00;4;Incomplete;40;
+APP00835;15/12/2024;RM023;B13;Konstruksi;Rejected;Verifikasi;26/12/2024;;;0,95;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00836;04/04/2024;RM005;B06;Konstruksi;Rejected;Analisis;28/04/2024;;;1,12;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00837;31/05/2024;RM005;B12;Perdagangan;Rejected;Verifikasi;12/06/2024;;;5,44;0,00;0;Complete;90;Cashflow Lemah
+APP00838;06/11/2024;RM006;B09;Jasa;Approved;Komite;13/11/2024;28/11/2024;;2,52;2,11;0;Complete;100;
+APP00839;16/05/2024;RM013;B13;Transportasi;Rejected;Analisis;12/06/2024;;;3,13;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00840;03/09/2024;RM009;B04;Perdagangan;Pending;Verifikasi;;;;2,05;0,00;3;Incomplete;55;
+APP00841;30/08/2024;RM030;B08;Jasa;Rejected;Analisis;08/10/2024;;;1,82;0,00;0;Complete;90;Cashflow Lemah
+APP00842;31/01/2024;RM022;B11;Transportasi;Pending;Analisis;;;;2,61;0,00;4;Incomplete;40;
+APP00843;09/02/2024;RM028;B04;Jasa;Approved;Analisis;12/03/2024;26/03/2024;05/04/2024;3,07;2,22;1;Complete;90;
+APP00844;16/08/2024;RM029;B02;Perdagangan;Approved;Analisis;13/09/2024;17/09/2024;18/09/2024;3,29;3,15;3;Incomplete;60;
+APP00845;05/02/2024;RM015;B10;Jasa;Pending;Verifikasi;;;;1,84;0,00;1;Complete;85;
+APP00846;10/08/2024;RM014;B11;Perdagangan;Pending;Analisis;;;;3,52;0,00;0;Complete;100;
+APP00847;06/01/2024;RM024;B09;Jasa;Approved;Analisis;15/01/2024;28/01/2024;30/01/2024;0,45;0,30;4;Incomplete;45;
+APP00848;17/11/2024;RM007;B05;Perdagangan;Pending;Analisis;;;;3,39;0,00;4;Incomplete;40;
+APP00849;07/08/2024;RM025;B04;Produksi;Approved;Analisis;13/09/2024;26/09/2024;;1,53;0,92;1;Complete;90;
+APP00850;15/03/2024;RM020;B02;Jasa;Rejected;Verifikasi;10/04/2024;;;2,76;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00851;04/01/2024;RM002;B01;Produksi;Approved;Analisis;09/01/2024;24/01/2024;;1,34;1,13;0;Complete;100;
+APP00852;30/11/2024;RM007;B11;Produksi;Approved;Komite;31/12/2024;11/01/2025;12/01/2025;0,89;0,67;1;Complete;90;
+APP00853;13/05/2024;RM006;B07;Jasa;Approved;Komite;18/06/2024;02/07/2024;03/07/2024;2,43;2,41;0;Complete;100;
+APP00854;27/04/2024;RM017;B06;Produksi;Approved;Analisis;08/05/2024;14/05/2024;18/05/2024;0,81;0,50;1;Complete;90;
+APP00855;03/04/2024;RM027;B15;Perdagangan;Approved;Komite;05/05/2024;14/05/2024;15/05/2024;1,56;1,56;0;Complete;100;
+APP00856;02/03/2024;RM025;B15;Jasa;Approved;Analisis;30/03/2024;09/04/2024;;1,22;1,04;2;Incomplete;75;
+APP00857;12/07/2024;RM025;B02;Perdagangan;Approved;Komite;15/08/2024;21/08/2024;25/08/2024;1,79;1,47;0;Complete;100;
+APP00858;30/11/2024;RM028;B08;Konstruksi;Rejected;Analisis;14/12/2024;;;3,20;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00859;21/07/2024;RM002;B11;Perdagangan;Rejected;Verifikasi;22/08/2024;;;1,48;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00860;26/01/2024;RM003;B04;Jasa;Approved;Komite;11/02/2024;20/02/2024;01/03/2024;2,39;2,32;2;Incomplete;75;
+APP00861;21/06/2024;RM005;B08;Produksi;Rejected;Analisis;29/07/2024;;;3,09;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00862;26/10/2024;RM005;B15;Jasa;Approved;Komite;17/11/2024;25/11/2024;05/12/2024;1,38;1,19;0;Complete;100;
+APP00863;12/05/2024;RM001;B07;Perdagangan;Pending;Analisis;;;;1,39;0,00;2;Incomplete;70;
+APP00864;21/11/2024;RM008;B05;Jasa;Pending;Verifikasi;;;;4,51;0,00;3;Incomplete;55;
+APP00865;27/04/2024;RM012;B10;Produksi;Approved;Komite;05/06/2024;15/06/2024;21/06/2024;1,89;1,57;2;Incomplete;75;
+APP00866;19/11/2024;RM024;B10;Produksi;Approved;Analisis;24/12/2024;02/01/2025;05/01/2025;2,69;2,36;4;Incomplete;45;
+APP00867;01/10/2024;RM004;B12;Jasa;Approved;Komite;04/11/2024;13/11/2024;22/11/2024;2,68;1,78;2;Incomplete;75;
+APP00868;30/07/2024;RM013;B08;Jasa;Approved;Analisis;31/08/2024;14/09/2024;19/09/2024;0,97;0,64;2;Incomplete;75;
+APP00869;12/08/2024;RM023;B14;Jasa;Pending;Verifikasi;;;;1,26;0,00;0;Complete;100;
+APP00870;20/01/2024;RM015;B09;Produksi;Approved;Analisis;11/02/2024;15/02/2024;24/02/2024;2,48;1,87;1;Complete;90;
+APP00871;22/04/2024;RM011;B05;Jasa;Approved;Analisis;17/05/2024;25/05/2024;28/05/2024;0,57;0,50;1;Complete;90;
+APP00872;19/05/2024;RM010;B10;Jasa;Approved;Komite;08/06/2024;17/06/2024;24/06/2024;1,75;1,10;0;Complete;100;
+APP00873;16/02/2024;RM003;B05;Perdagangan;Approved;Komite;26/02/2024;05/03/2024;06/03/2024;1,18;1,17;1;Complete;90;
+APP00874;01/01/2024;RM022;B02;Perdagangan;Approved;Komite;23/01/2024;05/02/2024;12/02/2024;3,86;2,34;0;Complete;100;
+APP00875;30/03/2024;RM014;B05;Perdagangan;Approved;Analisis;02/05/2024;09/05/2024;15/05/2024;2,44;2,05;2;Incomplete;75;
+APP00876;21/05/2024;RM016;B03;Perdagangan;Rejected;Verifikasi;10/06/2024;;;4,05;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00877;15/11/2024;RM010;B07;Jasa;Approved;Komite;19/12/2024;27/12/2024;03/01/2025;1,94;1,27;1;Complete;90;
+APP00878;07/02/2024;RM029;B10;Produksi;Approved;Komite;07/03/2024;12/03/2024;;1,85;1,22;5;Incomplete;30;
+APP00879;19/10/2024;RM010;B05;Perdagangan;Pending;Verifikasi;;;;1,65;0,00;1;Complete;85;
+APP00880;18/05/2024;RM012;B08;Konstruksi;Approved;Komite;13/06/2024;26/06/2024;05/07/2024;1,47;1,40;1;Complete;90;
+APP00881;21/12/2024;RM030;B01;Perdagangan;Pending;Analisis;;;;9,93;0,00;0;Complete;100;
+APP00882;28/11/2024;RM009;B03;Pertanian;Pending;Verifikasi;;;;3,22;0,00;3;Incomplete;55;
+APP00883;15/09/2024;RM001;B03;Produksi;Approved;Komite;21/09/2024;01/10/2024;05/10/2024;1,05;0,78;1;Complete;90;
+APP00884;09/06/2024;RM005;B09;Jasa;Approved;Komite;15/07/2024;19/07/2024;22/07/2024;9,66;6,08;2;Incomplete;75;
+APP00885;26/06/2024;RM020;B05;Perdagangan;Approved;Analisis;21/07/2024;25/07/2024;26/07/2024;1,56;1,36;0;Complete;100;
+APP00886;10/01/2024;RM008;B12;Produksi;Approved;Analisis;26/01/2024;30/01/2024;06/02/2024;2,40;2,23;1;Complete;90;
+APP00887;17/09/2024;RM011;B09;Jasa;Approved;Komite;23/10/2024;27/10/2024;30/10/2024;3,48;2,51;0;Complete;100;
+APP00888;17/05/2024;RM012;B13;Konstruksi;Approved;Komite;04/06/2024;13/06/2024;18/06/2024;0,79;0,79;2;Incomplete;75;
+APP00889;20/06/2024;RM001;B09;Jasa;Approved;Komite;17/07/2024;21/07/2024;23/07/2024;1,21;0,76;3;Incomplete;60;
+APP00890;13/01/2024;RM025;B01;Konstruksi;Approved;Analisis;03/02/2024;17/02/2024;23/02/2024;5,33;4,61;2;Incomplete;75;
+APP00891;16/06/2024;RM022;B02;Perdagangan;Pending;Verifikasi;;;;1,73;0,00;2;Incomplete;70;
+APP00892;09/05/2024;RM020;B05;Produksi;Pending;Verifikasi;;;;3,61;0,00;1;Complete;85;
+APP00893;24/03/2024;RM028;B04;Produksi;Approved;Analisis;19/04/2024;03/05/2024;;1,51;1,18;2;Incomplete;75;
+APP00894;16/11/2024;RM025;B15;Produksi;Approved;Analisis;08/12/2024;16/12/2024;20/12/2024;1,87;1,32;1;Complete;90;
+APP00895;14/11/2024;RM011;B10;Perdagangan;Rejected;Analisis;06/12/2024;;;5,79;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP00896;10/04/2024;RM005;B09;Produksi;Pending;Verifikasi;;;;2,58;0,00;0;Complete;100;
+APP00897;24/11/2024;RM015;B07;Jasa;Rejected;Analisis;03/01/2025;;;1,61;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00898;29/09/2024;RM005;B06;Produksi;Approved;Komite;04/10/2024;19/10/2024;;1,32;1,23;1;Complete;90;
+APP00899;21/09/2024;RM012;B07;Perdagangan;Pending;Verifikasi;;;;1,39;0,00;1;Complete;85;
+APP00900;07/02/2024;RM005;B01;Konstruksi;Approved;Komite;16/03/2024;21/03/2024;31/03/2024;4,18;3,72;0;Complete;100;
+APP00901;03/04/2024;RM017;B01;Perdagangan;Approved;Analisis;20/04/2024;01/05/2024;03/05/2024;3,14;2,04;2;Incomplete;75;
+APP00902;04/04/2024;RM017;B08;Pertanian;Approved;Komite;14/04/2024;17/04/2024;27/04/2024;1,00;0,67;0;Complete;100;
+APP00903;31/10/2024;RM024;B13;Konstruksi;Approved;Analisis;20/11/2024;02/12/2024;11/12/2024;2,09;1,52;0;Complete;100;
+APP00904;09/03/2024;RM012;B13;Pertanian;Approved;Komite;09/04/2024;20/04/2024;24/04/2024;1,90;1,59;2;Incomplete;75;
+APP00905;13/11/2024;RM024;B02;Jasa;Approved;Analisis;19/12/2024;30/12/2024;05/01/2025;2,40;2,06;1;Complete;90;
+APP00906;23/08/2024;RM028;B12;Jasa;Pending;Verifikasi;;;;1,38;0,00;2;Incomplete;70;
+APP00907;29/11/2024;RM015;B10;Transportasi;Rejected;Verifikasi;08/01/2025;;;3,83;0,00;1;Complete;75;Dokumen Tidak Lengkap
+APP00908;16/05/2024;RM015;B11;Perdagangan;Approved;Komite;05/06/2024;13/06/2024;14/06/2024;1,98;1,48;4;Incomplete;45;
+APP00909;16/03/2024;RM006;B09;Jasa;Approved;Komite;20/04/2024;03/05/2024;07/05/2024;2,48;2,17;1;Complete;90;
+APP00910;04/02/2024;RM012;B07;Produksi;Approved;Analisis;11/03/2024;15/03/2024;17/03/2024;1,24;1,08;0;Complete;100;
+APP00911;01/01/2024;RM027;B06;Produksi;Pending;Verifikasi;;;;1,28;0,00;1;Complete;85;
+APP00912;22/10/2024;RM029;B01;Perdagangan;Approved;Analisis;24/11/2024;03/12/2024;11/12/2024;9,77;5,89;0;Complete;100;
+APP00913;15/11/2024;RM020;B01;Produksi;Rejected;Verifikasi;21/11/2024;;;5,84;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00914;29/02/2024;RM018;B02;Pertanian;Approved;Komite;10/03/2024;18/03/2024;28/03/2024;1,90;1,22;0;Complete;100;
+APP00915;15/11/2024;RM014;B06;Perdagangan;Approved;Analisis;08/12/2024;21/12/2024;28/12/2024;4,97;3,15;1;Complete;90;
+APP00916;14/12/2024;RM002;B14;Konstruksi;Pending;Analisis;;;;4,10;0,00;0;Complete;100;
+APP00917;23/11/2024;RM009;B06;Perdagangan;Rejected;Verifikasi;12/12/2024;;;1,36;0,00;3;Incomplete;45;Cashflow Lemah
+APP00918;23/09/2024;RM005;B02;Jasa;Approved;Komite;23/10/2024;07/11/2024;16/11/2024;1,28;1,03;0;Complete;100;
+APP00919;16/08/2024;RM020;B01;Perdagangan;Approved;Analisis;05/09/2024;14/09/2024;19/09/2024;2,96;2,53;5;Incomplete;30;
+APP00920;26/09/2024;RM026;B10;Perdagangan;Rejected;Analisis;20/10/2024;;;2,32;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00921;11/11/2024;RM029;B05;Konstruksi;Approved;Komite;09/12/2024;23/12/2024;01/01/2025;1,56;1,38;0;Complete;100;
+APP00922;12/10/2024;RM001;B05;Jasa;Rejected;Analisis;16/11/2024;;;3,06;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00923;17/10/2024;RM023;B02;Jasa;Approved;Komite;26/11/2024;29/11/2024;04/12/2024;0,83;0,77;3;Incomplete;60;
+APP00924;31/07/2024;RM003;B06;Perdagangan;Pending;Verifikasi;;;;2,12;0,00;3;Incomplete;55;
+APP00925;13/06/2024;RM006;B09;Jasa;Pending;Analisis;;;;0,94;0,00;0;Complete;100;
+APP00926;05/01/2024;RM005;B02;Jasa;Approved;Analisis;12/02/2024;19/02/2024;28/02/2024;0,96;0,66;0;Complete;100;
+APP00927;04/12/2024;RM021;B10;Jasa;Rejected;Verifikasi;31/12/2024;;;1,30;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP00928;18/03/2024;RM027;B02;Perdagangan;Approved;Komite;19/04/2024;01/05/2024;09/05/2024;2,47;1,94;0;Complete;100;
+APP00929;02/03/2024;RM005;B03;Konstruksi;Approved;Analisis;11/04/2024;18/04/2024;;1,32;1,12;0;Complete;100;
+APP00930;11/05/2024;RM001;B13;Jasa;Pending;Verifikasi;;;;0,95;0,00;0;Complete;100;
+APP00931;29/03/2024;RM017;B07;Jasa;Approved;Komite;24/04/2024;02/05/2024;10/05/2024;2,64;2,59;0;Complete;100;
+APP00932;24/08/2024;RM019;B06;Perdagangan;Pending;Verifikasi;;;;4,86;0,00;0;Complete;100;
+APP00933;11/02/2024;RM014;B12;Pertanian;Approved;Analisis;09/03/2024;13/03/2024;19/03/2024;2,91;2,38;0;Complete;100;
+APP00934;29/03/2024;RM012;B08;Jasa;Approved;Analisis;02/05/2024;14/05/2024;20/05/2024;5,84;5,72;1;Complete;90;
+APP00935;22/10/2024;RM010;B15;Jasa;Approved;Komite;13/11/2024;24/11/2024;25/11/2024;4,62;3,10;3;Incomplete;60;
+APP00936;23/11/2024;RM020;B08;Perdagangan;Approved;Komite;17/12/2024;23/12/2024;27/12/2024;1,48;0,90;0;Complete;100;
+APP00937;21/10/2024;RM021;B06;Transportasi;Approved;Komite;11/11/2024;16/11/2024;17/11/2024;2,90;1,79;2;Incomplete;75;
+APP00938;13/04/2024;RM018;B12;Perdagangan;Pending;Verifikasi;12/07/2024;;;1,88;0,00;0;Complete;100;
+APP00939;14/01/2024;RM024;B11;Pertanian;Rejected;Verifikasi;02/02/2024;;;3,75;0,00;2;Incomplete;60;Cashflow Lemah
+APP00940;14/10/2024;RM027;B10;Jasa;Rejected;Analisis;26/10/2024;;;1,88;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP00941;27/06/2024;RM011;B03;Perdagangan;Approved;Komite;14/07/2024;27/07/2024;06/08/2024;1,24;0,81;2;Incomplete;75;
+APP00942;04/05/2024;RM030;B03;Pertanian;Approved;Analisis;29/05/2024;08/06/2024;15/06/2024;4,52;3,26;0;Complete;100;
+APP00943;18/12/2024;RM002;B15;Perdagangan;Approved;Komite;30/12/2024;05/01/2025;09/01/2025;2,40;2,23;3;Incomplete;60;
+APP00944;23/01/2024;RM025;B01;Konstruksi;Approved;Komite;02/03/2024;06/03/2024;13/03/2024;1,33;0,91;0;Complete;100;
+APP00945;03/03/2024;RM018;B07;Konstruksi;Approved;Analisis;19/03/2024;27/03/2024;31/03/2024;1,47;1,02;1;Complete;90;
+APP00946;22/05/2024;RM029;B05;Konstruksi;Approved;Komite;08/06/2024;19/06/2024;25/06/2024;1,33;1,14;4;Incomplete;45;
+APP00947;01/06/2024;RM025;B04;Perdagangan;Approved;Analisis;19/06/2024;27/06/2024;05/07/2024;1,09;0,77;1;Complete;90;
+APP00948;24/05/2024;RM007;B10;Pertanian;Rejected;Analisis;28/06/2024;;;1,49;0,00;1;Complete;75;Agunan Tidak Cukup
+APP00949;12/08/2024;RM024;B15;Jasa;Approved;Komite;03/09/2024;07/09/2024;15/09/2024;2,48;1,74;4;Incomplete;45;
+APP00950;04/11/2024;RM015;B04;Konstruksi;Approved;Analisis;12/12/2024;27/12/2024;02/01/2025;2,06;1,64;0;Complete;100;
+APP00951;13/04/2024;RM011;B14;Produksi;Approved;Analisis;06/05/2024;13/05/2024;22/05/2024;1,52;1,50;0;Complete;100;
+APP00952;13/04/2024;RM018;B04;Pertanian;Approved;Komite;24/04/2024;06/05/2024;15/05/2024;4,86;4,53;5;Incomplete;30;
+APP00953;08/02/2024;RM023;B06;Jasa;Rejected;Verifikasi;25/02/2024;;;0,59;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00954;16/07/2024;RM012;B15;Jasa;Approved;Komite;08/08/2024;14/08/2024;15/08/2024;2,38;1,77;3;Incomplete;60;
+APP00955;13/05/2024;RM006;B08;Perdagangan;Approved;Komite;01/06/2024;16/06/2024;18/06/2024;1,82;1,43;0;Complete;100;
+APP00956;07/03/2024;RM020;B08;Pertanian;Approved;Komite;04/04/2024;13/04/2024;14/04/2024;1,11;1,10;2;Incomplete;75;
+APP00957;27/06/2024;RM023;B05;Jasa;Approved;Komite;13/07/2024;24/07/2024;31/07/2024;2,47;1,65;1;Complete;90;
+APP00958;11/02/2024;RM030;B15;Jasa;Approved;Komite;06/03/2024;21/03/2024;;1,74;1,29;5;Incomplete;30;
+APP00959;15/01/2024;RM013;B06;Pertanian;Rejected;Verifikasi;20/01/2024;;;4,19;0,00;1;Complete;75;Cashflow Lemah
+APP00960;20/04/2024;RM020;B04;Jasa;Rejected;Verifikasi;29/05/2024;;;3,34;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00961;05/06/2024;RM016;B12;Perdagangan;Pending;Analisis;;;;6,22;0,00;2;Incomplete;70;
+APP00962;15/10/2024;RM018;B14;Jasa;Approved;Komite;28/10/2024;09/11/2024;11/11/2024;1,48;1,02;0;Complete;100;
+APP00963;18/08/2024;RM010;B11;Jasa;Rejected;Analisis;09/09/2024;;;4,58;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP00964;05/06/2024;RM028;B13;Jasa;Approved;Komite;12/06/2024;24/06/2024;25/06/2024;0,99;0,60;3;Incomplete;60;
+APP00965;07/02/2024;RM023;B09;Perdagangan;Approved;Komite;15/02/2024;28/02/2024;07/03/2024;1,86;1,57;1;Complete;90;
+APP00966;06/04/2024;RM008;B08;Perdagangan;Pending;Verifikasi;;;;1,50;0,00;3;Incomplete;55;
+APP00967;15/10/2024;RM018;B10;Perdagangan;Approved;Analisis;24/11/2024;07/12/2024;17/12/2024;2,85;2,40;0;Complete;100;
+APP00968;10/09/2024;RM021;B12;Produksi;Approved;Komite;03/10/2024;14/10/2024;24/10/2024;2,81;1,77;1;Complete;90;
+APP00969;14/07/2024;RM001;B10;Perdagangan;Pending;Verifikasi;;;;1,16;0,00;1;Complete;85;
+APP00970;26/03/2024;RM023;B01;Jasa;Approved;Analisis;08/04/2024;11/04/2024;19/04/2024;2,94;2,01;2;Incomplete;75;
+APP00971;17/11/2024;RM008;B15;Konstruksi;Pending;Analisis;;;;1,58;0,00;0;Complete;100;
+APP00972;10/01/2024;RM029;B02;Perdagangan;Approved;Komite;15/02/2024;27/02/2024;;1,21;1,11;2;Incomplete;75;
+APP00973;05/01/2024;RM006;B09;Jasa;Rejected;Analisis;16/01/2024;;;1,97;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00974;02/05/2024;RM005;B08;Pertanian;Rejected;Analisis;07/05/2024;;;0,82;0,00;2;Incomplete;60;Cashflow Lemah
+APP00975;25/11/2024;RM015;B14;Konstruksi;Rejected;Verifikasi;18/12/2024;;;3,47;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00976;18/12/2024;RM022;B03;Produksi;Approved;Analisis;22/01/2025;04/02/2025;11/02/2025;1,92;1,47;3;Incomplete;60;
+APP00977;27/04/2024;RM015;B08;Produksi;Approved;Komite;01/06/2024;15/06/2024;;1,94;1,51;0;Complete;100;
+APP00978;20/10/2024;RM002;B12;Pertanian;Approved;Komite;22/11/2024;29/11/2024;04/12/2024;1,88;1,75;1;Complete;90;
+APP00979;07/06/2024;RM001;B01;Jasa;Approved;Komite;03/07/2024;06/07/2024;11/07/2024;5,33;3,41;0;Complete;100;
+APP00980;29/10/2024;RM023;B10;Pertanian;Approved;Analisis;14/11/2024;19/11/2024;;4,93;4,35;2;Incomplete;75;
+APP00981;15/08/2024;RM023;B04;Perdagangan;Pending;Verifikasi;;;;4,46;0,00;0;Complete;100;
+APP00982;03/08/2024;RM026;B03;Konstruksi;Approved;Analisis;11/08/2024;18/08/2024;25/08/2024;1,88;1,36;2;Incomplete;75;
+APP00983;02/07/2024;RM011;B06;Jasa;Rejected;Verifikasi;23/07/2024;;;1,02;0,00;0;Complete;90;Agunan Tidak Cukup
+APP00984;15/01/2024;RM010;B07;Jasa;Approved;Komite;19/02/2024;04/03/2024;07/03/2024;1,96;1,37;2;Incomplete;75;
+APP00985;05/06/2024;RM030;B04;Perdagangan;Approved;Komite;17/06/2024;02/07/2024;;2,39;2,05;0;Complete;100;
+APP00986;15/05/2024;RM018;B07;Produksi;Approved;Komite;24/05/2024;31/05/2024;;3,23;2,29;0;Complete;100;
+APP00987;17/09/2024;RM018;B09;Perdagangan;Rejected;Analisis;17/10/2024;;;2,39;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP00988;05/06/2024;RM017;B11;Konstruksi;Pending;Verifikasi;;;;1,07;0,00;0;Complete;100;
+APP00989;16/02/2024;RM026;B02;Pertanian;Rejected;Verifikasi;23/03/2024;;;1,44;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP00990;19/11/2024;RM008;B11;Perdagangan;Rejected;Verifikasi;28/11/2024;;;1,36;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00991;27/11/2024;RM015;B03;Pertanian;Approved;Komite;05/12/2024;13/12/2024;;2,74;2,28;5;Incomplete;30;
+APP00992;21/06/2024;RM008;B05;Pertanian;Approved;Analisis;05/07/2024;13/07/2024;22/07/2024;2,78;1,94;2;Incomplete;75;
+APP00993;09/05/2024;RM017;B03;Produksi;Approved;Komite;23/05/2024;26/05/2024;01/06/2024;3,01;2,60;0;Complete;100;
+APP00994;04/04/2024;RM012;B11;Jasa;Pending;Verifikasi;;;;2,38;0,00;0;Complete;100;
+APP00995;24/04/2024;RM027;B08;Perdagangan;Approved;Komite;18/05/2024;23/05/2024;30/05/2024;0,58;0,35;2;Incomplete;75;
+APP00996;30/08/2024;RM008;B12;Perdagangan;Approved;Komite;09/09/2024;14/09/2024;;0,70;0,54;0;Complete;100;
+APP00997;18/10/2024;RM025;B10;Perdagangan;Rejected;Verifikasi;07/11/2024;;;1,82;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP00998;08/10/2024;RM014;B08;Konstruksi;Rejected;Verifikasi;20/10/2024;;;2,10;0,00;0;Complete;90;Cashflow Lemah
+APP00999;25/10/2024;RM004;B08;Perdagangan;Pending;Verifikasi;;;;4,21;0,00;5;Incomplete;25;
+APP01000;09/10/2024;RM001;B12;Pertanian;Pending;Verifikasi;;;;2,08;0,00;1;Complete;85;
+APP01001;09/03/2024;RM001;B12;Perdagangan;Pending;Analisis;;;;1,10;0,00;2;Incomplete;70;
+APP01002;27/05/2024;RM019;B09;Jasa;Approved;Komite;06/07/2024;18/07/2024;26/07/2024;2,95;2,01;0;Complete;100;
+APP01003;11/01/2024;RM016;B04;Pertanian;Approved;Analisis;11/02/2024;24/02/2024;28/02/2024;1,96;1,71;3;Incomplete;60;
+APP01004;10/09/2024;RM014;B05;Konstruksi;Pending;Analisis;;;;1,56;0,00;0;Complete;100;
+APP01005;25/11/2024;RM021;B05;Perdagangan;Pending;Analisis;;;;0,75;0,00;2;Incomplete;70;
+APP01006;25/12/2024;RM016;B08;Jasa;Approved;Komite;13/01/2025;22/01/2025;24/01/2025;2,09;1,39;3;Incomplete;60;
+APP01007;07/02/2024;RM005;B07;Jasa;Rejected;Analisis;16/03/2024;;;2,27;0,00;0;Complete;90;Cashflow Lemah
+APP01008;13/05/2024;RM009;B09;Perdagangan;Approved;Komite;11/06/2024;15/06/2024;16/06/2024;1,09;0,72;1;Complete;90;
+APP01009;18/07/2024;RM026;B15;Perdagangan;Approved;Komite;20/08/2024;25/08/2024;;3,10;3,04;1;Complete;90;
+APP01010;23/01/2024;RM030;B15;Jasa;Pending;Verifikasi;;;;2,94;0,00;0;Complete;100;
+APP01011;29/10/2024;RM028;B14;Jasa;Approved;Komite;01/12/2024;15/12/2024;24/12/2024;2,04;1,50;1;Complete;90;
+APP01012;11/12/2024;RM002;B08;Produksi;Approved;Komite;04/01/2025;17/01/2025;18/01/2025;2,00;1,21;0;Complete;100;
+APP01013;28/10/2024;RM018;B02;Jasa;Approved;Komite;29/11/2024;02/12/2024;04/12/2024;3,50;2,31;1;Complete;90;
+APP01014;05/08/2024;RM006;B10;Jasa;Pending;Verifikasi;;;;2,47;0,00;2;Incomplete;70;
+APP01015;20/05/2024;RM009;B12;Jasa;Approved;Komite;13/06/2024;17/06/2024;24/06/2024;1,30;0,82;2;Incomplete;75;
+APP01016;13/04/2024;RM001;B04;Produksi;Pending;Verifikasi;;;;1,76;0,00;0;Complete;100;
+APP01017;28/07/2024;RM009;B06;Konstruksi;Pending;Analisis;;;;2,77;0,00;3;Incomplete;55;
+APP01018;20/04/2024;RM025;B12;Jasa;Approved;Komite;28/04/2024;12/05/2024;18/05/2024;0,59;0,54;3;Incomplete;60;
+APP01019;13/04/2024;RM016;B02;Pertanian;Rejected;Analisis;24/04/2024;;;1,13;0,00;1;Complete;75;Agunan Tidak Cukup
+APP01020;11/11/2024;RM013;B07;Perdagangan;Approved;Analisis;29/11/2024;10/12/2024;12/12/2024;2,99;2,33;1;Complete;90;
+APP01021;19/06/2024;RM009;B03;Jasa;Rejected;Analisis;07/07/2024;;;4,10;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP01022;21/12/2024;RM021;B13;Perdagangan;Approved;Analisis;11/01/2025;17/01/2025;18/01/2025;3,66;3,26;2;Incomplete;75;
+APP01023;19/11/2024;RM013;B03;Jasa;Rejected;Analisis;29/11/2024;;;3,39;0,00;2;Incomplete;60;Dokumen Tidak Lengkap
+APP01024;12/05/2024;RM009;B11;Produksi;Approved;Komite;27/05/2024;05/06/2024;15/06/2024;2,14;1,42;0;Complete;100;
+APP01025;19/10/2024;RM011;B02;Konstruksi;Approved;Komite;08/11/2024;17/11/2024;18/11/2024;1,07;1,03;2;Incomplete;75;
+APP01026;23/11/2024;RM004;B11;Perdagangan;Approved;Komite;09/12/2024;19/12/2024;24/12/2024;1,76;1,10;0;Complete;100;
+APP01027;06/05/2024;RM002;B08;Produksi;Approved;Komite;15/06/2024;23/06/2024;03/07/2024;0,60;0,37;0;Complete;100;
+APP01028;15/04/2024;RM029;B06;Jasa;Pending;Analisis;;;;4,33;0,00;2;Incomplete;70;
+APP01029;01/04/2024;RM006;B01;Perdagangan;Approved;Komite;10/04/2024;15/04/2024;18/04/2024;1,21;1,17;2;Incomplete;75;
+APP01030;13/10/2024;RM014;B12;Perdagangan;Pending;Analisis;;;;1,44;0,00;1;Complete;85;
+APP01031;20/02/2024;RM004;B01;Perdagangan;Approved;Komite;06/03/2024;14/03/2024;20/03/2024;3,74;3,42;1;Complete;90;
+APP01032;29/01/2024;RM006;B07;Perdagangan;Approved;Komite;03/02/2024;10/02/2024;;0,75;0,52;4;Incomplete;45;
+APP01033;22/10/2024;RM019;B08;Perdagangan;Pending;Analisis;;;;0,97;0,00;1;Complete;85;
+APP01034;23/10/2024;RM006;B05;Perdagangan;Approved;Komite;23/11/2024;07/12/2024;10/12/2024;2,33;1,73;2;Incomplete;75;
+APP01035;01/08/2024;RM002;B12;Perdagangan;Pending;Verifikasi;;;;2,71;0,00;0;Complete;100;
+APP01036;23/09/2024;RM018;B11;Produksi;Pending;Verifikasi;;;;1,90;0,00;0;Complete;100;
+APP01037;13/09/2024;RM013;B05;Jasa;Rejected;Analisis;16/10/2024;;;1,94;0,00;0;Complete;90;Cashflow Lemah
+APP01038;28/10/2024;RM009;B04;Transportasi;Approved;Komite;02/12/2024;10/12/2024;17/12/2024;4,24;2,80;1;Complete;90;
+APP01039;10/04/2024;RM023;B14;Jasa;Pending;Verifikasi;;;;2,90;0,00;2;Incomplete;70;
+APP01040;11/12/2024;RM019;B06;Pertanian;Rejected;Verifikasi;03/01/2025;;;2,68;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP01041;19/04/2024;RM013;B14;Konstruksi;Pending;Analisis;;;;3,16;0,00;1;Complete;85;
+APP01042;30/06/2024;RM011;B06;Produksi;Approved;Komite;07/07/2024;22/07/2024;27/07/2024;1,66;1,29;0;Complete;100;
+APP01043;08/11/2024;RM001;B03;Jasa;Pending;Verifikasi;;;;7,30;0,00;0;Complete;100;
+APP01044;01/01/2024;RM024;B09;Pertanian;Pending;Verifikasi;;;;0,50;0,00;4;Incomplete;40;
+APP01045;14/11/2024;RM030;B12;Perdagangan;Pending;Analisis;;;;4,76;0,00;2;Incomplete;70;
+APP01046;24/02/2024;RM022;B11;Perdagangan;Approved;Komite;14/03/2024;26/03/2024;30/03/2024;3,41;2,44;0;Complete;100;
+APP01047;28/05/2024;RM007;B14;Jasa;Approved;Analisis;20/06/2024;02/07/2024;09/07/2024;2,30;1,53;2;Incomplete;75;
+APP01048;04/11/2024;RM025;B07;Jasa;Rejected;Verifikasi;27/11/2024;;;2,08;0,00;2;Incomplete;60;Agunan Tidak Cukup
+APP01049;16/05/2024;RM021;B01;Perdagangan;Approved;Komite;19/06/2024;23/06/2024;02/07/2024;1,81;1,39;2;Incomplete;75;
+APP01050;20/07/2024;RM015;B15;Konstruksi;Pending;Verifikasi;;;;3,84;0,00;0;Complete;100;
+APP01051;08/11/2024;RM001;B13;Produksi;Approved;Komite;17/11/2024;20/11/2024;23/11/2024;1,94;1,53;1;Complete;90;
+APP01052;26/04/2024;RM012;B07;Jasa;Approved;Komite;15/05/2024;20/05/2024;22/05/2024;1,28;1,24;0;Complete;100;
+APP01053;02/06/2024;RM026;B05;Konstruksi;Approved;Analisis;23/06/2024;28/06/2024;04/07/2024;3,41;2,57;3;Incomplete;60;
+APP01054;17/10/2024;RM007;B05;Jasa;Approved;Komite;03/11/2024;18/11/2024;;5,13;4,23;2;Incomplete;75;
+APP01055;03/03/2024;RM015;B14;Transportasi;Rejected;Verifikasi;04/04/2024;;;0,62;0,00;1;Complete;75;Cashflow Lemah
+APP01056;31/08/2024;RM021;B13;Jasa;Rejected;Analisis;12/09/2024;;;8,16;0,00;0;Complete;90;Agunan Tidak Cukup
+APP01057;25/01/2024;RM019;B02;Perdagangan;Pending;Analisis;;;;1,06;0,00;0;Complete;100;
+APP01058;30/03/2024;RM028;B04;Pertanian;Approved;Analisis;08/05/2024;20/05/2024;22/05/2024;1,11;1,11;0;Complete;100;
+APP01059;15/03/2024;RM029;B12;Produksi;Pending;Verifikasi;;;;0,94;0,00;4;Incomplete;40;
+APP01060;20/10/2024;RM025;B06;Pertanian;Pending;Verifikasi;;;;1,98;0,00;0;Complete;100;
+APP01061;28/07/2024;RM001;B10;Transportasi;Pending;Analisis;;;;0,92;0,00;0;Complete;100;
+APP01062;12/12/2024;RM017;B15;Pertanian;Approved;Komite;31/12/2024;03/01/2025;13/01/2025;0,99;0,71;4;Incomplete;45;
+APP01063;17/01/2024;RM017;B11;Produksi;Pending;Verifikasi;;;;1,31;0,00;1;Complete;85;
+APP01064;07/05/2024;RM003;B07;Konstruksi;Pending;Verifikasi;;;;2,15;0,00;3;Incomplete;55;
+APP01065;07/09/2024;RM012;B11;Produksi;Rejected;Analisis;21/09/2024;;;2,28;0,00;0;Complete;90;Sektor Risiko Tinggi
+APP01066;27/06/2024;RM006;B05;Jasa;Approved;Komite;19/07/2024;01/08/2024;08/08/2024;4,18;4,04;1;Complete;90;
+APP01067;30/06/2024;RM026;B09;Konstruksi;Pending;Verifikasi;;;;4,12;0,00;1;Complete;85;
+APP01068;31/05/2024;RM011;B03;Perdagangan;Pending;Verifikasi;;;;3,67;0,00;2;Incomplete;70;
+APP01069;25/01/2024;RM003;B01;Produksi;Approved;Komite;08/02/2024;12/02/2024;18/02/2024;1,69;1,55;0;Complete;100;
+APP01070;28/06/2024;RM008;B04;Konstruksi;Approved;Komite;07/07/2024;14/07/2024;;0,66;0,45;1;Complete;90;
+APP01071;16/07/2024;RM014;B09;Produksi;Approved;Analisis;24/07/2024;03/08/2024;11/08/2024;0,65;0,56;3;Incomplete;60;
+APP01072;09/12/2024;RM014;B04;Produksi;Approved;Analisis;24/12/2024;06/01/2025;12/01/2025;3,65;2,33;1;Complete;90;
+APP01073;09/06/2024;RM010;B02;Pertanian;Approved;Komite;03/07/2024;12/07/2024;19/07/2024;3,29;2,64;1;Complete;90;
+APP01074;25/06/2024;RM002;B10;Jasa;Pending;Verifikasi;;;;1,37;0,00;0;Complete;100;
+APP01075;11/10/2024;RM014;B14;Konstruksi;Pending;Verifikasi;;;;0,84;0,00;0;Complete;100;
+APP01076;03/03/2024;RM009;B14;Perdagangan;Pending;Verifikasi;;;;1,06;0,00;2;Incomplete;70;
+APP01077;29/05/2024;RM003;B05;Perdagangan;Rejected;Verifikasi;21/06/2024;;;2,20;0,00;2;Incomplete;60;Sektor Risiko Tinggi
+APP01078;02/06/2024;RM021;B03;Perdagangan;Approved;Komite;05/07/2024;15/07/2024;25/07/2024;2,20;1,60;5;Incomplete;30;
+APP01079;04/06/2024;RM026;B13;Jasa;Approved;Analisis;16/06/2024;28/06/2024;30/06/2024;3,71;3,02;2;Incomplete;75;
+APP01080;18/02/2024;RM008;B12;Jasa;Pending;Verifikasi;;;;1,51;0,00;1;Complete;85;
+APP01081;02/12/2024;RM016;B13;Pertanian;Approved;Analisis;05/01/2025;15/01/2025;20/01/2025;1,71;1,68;3;Incomplete;60;
+APP01082;24/03/2024;RM002;B09;Jasa;Approved;Komite;17/04/2024;26/04/2024;28/04/2024;3,89;3,08;0;Complete;100;
+APP01083;25/06/2024;RM006;B04;Jasa;Approved;Analisis;25/07/2024;01/08/2024;;0,55;0,48;1;Complete;90;
+APP01084;27/05/2024;RM028;B06;Perdagangan;Approved;Komite;18/06/2024;24/06/2024;27/06/2024;2,40;2,32;0;Complete;100;
+APP01085;27/04/2024;RM021;B02;Jasa;Rejected;Analisis;03/06/2024;;;1,62;0,00;0;Complete;90;Dokumen Tidak Lengkap
+APP01086;07/12/2024;RM029;B06;Produksi;Approved;Analisis;15/01/2025;30/01/2025;05/02/2025;3,04;2,92;2;Incomplete;75;
+APP01087;03/03/2024;RM026;B03;Perdagangan;Approved;Analisis;08/04/2024;19/04/2024;21/04/2024;2,70;2,61;1;Complete;90;
+APP01088;07/07/2024;RM025;B12;Perdagangan;Approved;Komite;09/08/2024;13/08/2024;;1,31;1,27;1;Complete;90;
+APP01089;25/12/2024;RM012;B12;Perdagangan;Pending;Analisis;;;;1,46;0,00;1;Complete;85;
+APP01090;18/02/2024;RM005;B09;Perdagangan;Approved;Komite;28/02/2024;07/03/2024;13/03/2024;0,50;0,38;1;Complete;90;
+APP01091;22/11/2024;RM002;B11;Jasa;Pending;Verifikasi;;;;3,11;0,00;0;Complete;100;
+APP01092;13/09/2024;RM016;B02;Perdagangan;Approved;Analisis;20/09/2024;29/09/2024;01/10/2024;2,29;1,70;2;Incomplete;75;
+APP01093;11/08/2024;RM005;B15;Produksi;Approved;Komite;12/09/2024;16/09/2024;;4,59;3,86;1;Complete;90;
+APP01094;20/05/2024;RM015;B12;Pertanian;Approved;Komite;14/06/2024;21/06/2024;29/06/2024;1,56;1,01;3;Incomplete;60;
+APP01095;02/08/2024;RM012;B12;Jasa;Approved;Komite;23/08/2024;05/09/2024;14/09/2024;3,43;2,14;0;Complete;100;
+APP01096;29/07/2024;RM004;B09;Transportasi;Approved;Komite;04/08/2024;17/08/2024;18/08/2024;1,04;0,80;0;Complete;100;
+APP01097;13/11/2024;RM015;B05;Jasa;Approved;Analisis;23/11/2024;05/12/2024;;0,39;0,32;2;Incomplete;75;
+APP01098;01/02/2024;RM011;B08;Jasa;Rejected;Verifikasi;20/02/2024;;;1,87;0,00;3;Incomplete;45;Agunan Tidak Cukup
+APP01099;06/06/2024;RM016;B02;Transportasi;Approved;Komite;12/06/2024;22/06/2024;02/07/2024;1,41;1,17;1;Complete;90;
+APP01100;11/10/2024;RM023;B06;Perdagangan;Pending;Analisis;;;;1,06;0,00;2;Incomplete;70;
+APP01101;31/10/2024;RM006;B03;Konstruksi;Approved;Analisis;22/11/2024;03/12/2024;09/12/2024;3,40;2,97;5;Incomplete;30;
+APP01102;12/10/2024;RM014;B12;Perdagangan;Approved;Komite;19/10/2024;01/11/2024;02/11/2024;4,09;3,52;5;Incomplete;30;
+APP01103;23/05/2024;RM018;B12;Jasa;Approved;Komite;08/06/2024;15/06/2024;22/06/2024;2,11;1,62;2;Incomplete;75;
+APP01104;19/01/2024;RM012;B14;Perdagangan;Rejected;Analisis;23/02/2024;;;1,78;0,00;2;Incomplete;60;Cashflow Lemah
+APP01105;18/01/2024;RM027;B10;Produksi;Approved;Komite;25/02/2024;28/02/2024;08/03/2024;2,06;1,35;0;Complete;100;
+APP01106;13/09/2024;RM011;B05;Produksi;Approved;Analisis;16/10/2024;22/10/2024;26/10/2024;1,34;1,08;3;Incomplete;60;
+APP01107;18/03/2024;RM013;B12;Produksi;Approved;Komite;09/04/2024;18/04/2024;21/04/2024;2,78;2,32;1;Complete;90;
+APP01108;23/06/2024;RM021;B08;Jasa;Approved;Analisis;09/07/2024;21/07/2024;24/07/2024;0,79;0,62;4;Incomplete;45;
+APP01109;12/07/2024;RM023;B10;Jasa;Approved;Komite;13/08/2024;16/08/2024;;1,04;0,76;0;Complete;100;
+APP01110;22/04/2024;RM011;B14;Perdagangan;Pending;Verifikasi;;;;1,23;0,00;1;Complete;85;
+APP01111;23/04/2024;RM023;B01;Perdagangan;Approved;Komite;29/05/2024;01/06/2024;09/06/2024;2,74;1,73;1;Complete;90;
+APP01112;09/08/2024;RM016;B05;Konstruksi;Approved;Komite;19/08/2024;25/08/2024;;1,65;1,59;1;Complete;90;
+APP01113;14/06/2024;RM015;B03;Jasa;Pending;Analisis;;;;4,48;0,00;0;Complete;100;
+APP01114;14/11/2024;RM021;B04;Pertanian;Approved;Komite;19/12/2024;26/12/2024;31/12/2024;3,21;3,16;1;Complete;90;
+APP01115;11/05/2024;RM028;B02;Pertanian;Approved;Komite;07/06/2024;13/06/2024;21/06/2024;1,23;0,97;2;Incomplete;75;
+APP01116;20/09/2024;RM015;B09;Jasa;Approved;Analisis;21/10/2024;05/11/2024;11/11/2024;2,90;2,22;2;Incomplete;75;
+APP01117;24/02/2024;RM025;B03;Produksi;Pending;Verifikasi;;;;1,55;0,00;0;Complete;100;
+APP01118;24/12/2024;RM004;B15;Perdagangan;Approved;Analisis;19/01/2025;24/01/2025;28/01/2025;2,63;1,59;2;Incomplete;75;
+APP01119;10/05/2024;RM011;B02;Perdagangan;Approved;Komite;04/06/2024;19/06/2024;27/06/2024;3,31;2,35;0;Complete;100;
+APP01120;14/10/2024;RM019;B10;Perdagangan;Approved;Komite;25/10/2024;01/11/2024;05/11/2024;3,87;2,49;0;Complete;100;
+APP01121;22/09/2024;RM015;B11;Jasa;Pending;Verifikasi;;;;2,24;0,00;2;Incomplete;70;
+APP01122;10/06/2024;RM004;B09;Jasa;Approved;Analisis;25/06/2024;02/07/2024;05/07/2024;5,18;3,77;3;Incomplete;60;
+APP01123;27/03/2024;RM021;B07;Jasa;Pending;Analisis;;;;2,58;0,00;1;Complete;85;
+APP01124;24/02/2024;RM013;B06;Jasa;Rejected;Verifikasi;21/03/2024;;;2,15;0,00;1;Complete;75;Cashflow Lemah
+APP01125;14/10/2024;RM022;B01;Jasa;Pending;Analisis;;;;1,65;0,00;0;Complete;100;
+APP01126;26/06/2024;RM019;B05;Produksi;Approved;Komite;27/07/2024;04/08/2024;11/08/2024;1,36;1,10;1;Complete;90;
+APP01127;14/12/2024;RM002;B12;Pertanian;Approved;Komite;19/01/2025;23/01/2025;02/02/2025;2,55;1,65;0;Complete;100;
+APP01128;08/01/2024;RM014;B11;Perdagangan;Approved;Analisis;31/01/2024;03/02/2024;09/02/2024;2,11;1,60;4;Incomplete;45;
+APP01129;16/11/2024;RM029;B14;Perdagangan;Approved;Analisis;16/12/2024;26/12/2024;02/01/2025;2,32;1,58;3;Incomplete;60;
+APP01130;08/11/2024;RM004;B15;Produksi;Approved;Analisis;18/12/2024;01/01/2025;11/01/2025;2,65;1,80;2;Incomplete;75;
+APP01131;03/09/2024;RM016;B11;Jasa;Pending;Verifikasi;;;;2,31;0,00;1;Complete;85;
+APP01132;18/11/2024;RM021;B03;Produksi;Approved;Analisis;25/11/2024;04/12/2024;;6,64;5,77;3;Incomplete;60;
+APP01133;11/09/2024;RM020;B01;Perdagangan;Approved;Analisis;15/10/2024;20/10/2024;24/10/2024;1,44;1,39;1;Complete;90;
+APP01134;23/11/2024;RM014;B04;Jasa;Pending;Verifikasi;;;;2,57;0,00;0;Complete;100;
+APP01135;23/02/2024;RM027;B13;Perdagangan;Pending;Verifikasi;;;;1,73;0,00;0;Complete;100;
+APP01136;05/09/2024;RM029;B02;Perdagangan;Approved;Analisis;15/09/2024;20/09/2024;23/09/2024;0,45;0,44;2;Incomplete;75;
+APP01137;26/08/2024;RM015;B02;Produksi;Rejected;Verifikasi;20/09/2024;;;1,77;0,00;4;Incomplete;30;Sektor Risiko Tinggi
+APP01138;16/08/2024;RM028;B03;Jasa;Approved;Analisis;06/09/2024;15/09/2024;21/09/2024;1,13;0,90;0;Complete;100;
+APP01139;07/03/2024;RM003;B08;Pertanian;Pending;Verifikasi;;;;1,90;0,00;0;Complete;100;
+APP01140;20/02/2024;RM008;B08;Konstruksi;Pending;Verifikasi;;;;1,95;0,00;1;Complete;85;
+APP01141;06/04/2024;RM016;B12;Jasa;Pending;Verifikasi;;;;2,50;0,00;3;Incomplete;55;
+APP01142;01/04/2024;RM010;B15;Pertanian;Pending;Verifikasi;;;;1,44;0,00;0;Complete;100;
+APP01143;20/09/2024;RM004;B07;Perdagangan;Approved;Analisis;15/10/2024;26/10/2024;03/11/2024;1,55;1,02;0;Complete;100;
+APP01144;17/10/2024;RM030;B06;Jasa;Approved;Analisis;29/10/2024;12/11/2024;16/11/2024;3,02;2,39;2;Incomplete;75;
+APP01145;05/04/2024;RM018;B09;Produksi;Pending;Analisis;;;;1,22;0,00;1;Complete;85;
+APP01146;28/03/2024;RM002;B04;Jasa;Approved;Komite;27/04/2024;03/05/2024;08/05/2024;0,66;0,59;0;Complete;100;
+APP01147;18/03/2024;RM017;B12;Jasa;Rejected;Analisis;24/04/2024;;;2,18;0,00;0;Complete;90;Agunan Tidak Cukup
+APP01148;14/10/2024;RM013;B01;Perdagangan;Approved;Analisis;19/10/2024;30/10/2024;06/11/2024;3,77;3,21;2;Incomplete;75;
+APP01149;29/04/2024;RM004;B08;Jasa;Approved;Analisis;07/06/2024;18/06/2024;28/06/2024;3,00;2,75;1;Complete;90;
+APP01150;28/10/2024;RM026;B07;Konstruksi;Approved;Komite;01/12/2024;14/12/2024;23/12/2024;2,20;1,44;5;Incomplete;30;
+APP01151;13/06/2024;RM025;B07;Konstruksi;Approved;Analisis;14/07/2024;29/07/2024;07/08/2024;4,20;3,39;2;Incomplete;75;
+APP01152;30/06/2024;RM030;B15;Produksi;Pending;Verifikasi;;;;3,80;0,00;0;Complete;100;
+APP01153;10/08/2024;RM011;B03;Produksi;Pending;Verifikasi;;;;1,63;0,00;1;Complete;85;
+APP01154;06/11/2024;RM007;B04;Jasa;Pending;Analisis;;;;2,30;0,00;1;Complete;85;
+APP01155;07/01/2024;RM012;B10;Jasa;Rejected;Analisis;15/01/2024;;;2,36;0,00;0;Complete;90;Cashflow Lemah
+APP01156;25/11/2024;RM010;B09;Perdagangan;Rejected;Verifikasi;12/12/2024;;;1,88;0,00;4;Incomplete;30;Dokumen Tidak Lengkap
+APP01157;19/09/2024;RM007;B15;Jasa;Rejected;Verifikasi;27/10/2024;;;3,92;0,00;3;Incomplete;45;Sektor Risiko Tinggi
+APP01158;09/06/2024;RM013;B06;Jasa;Approved;Analisis;07/07/2024;15/07/2024;;1,81;1,18;0;Complete;100;
+APP01159;30/05/2024;RM007;B15;Transportasi;Pending;Verifikasi;;;;1,47;0,00;0;Complete;100;
+APP01160;25/03/2024;RM024;B15;Jasa;Approved;Analisis;30/04/2024;04/05/2024;08/05/2024;0,42;0,30;0;Complete;100;
+APP01161;26/05/2024;RM017;B05;Jasa;Approved;Komite;28/06/2024;07/07/2024;12/07/2024;1,23;1,15;0;Complete;100;
+APP01162;21/04/2024;RM010;B03;Jasa;Pending;Analisis;;;;0,90;0,00;1;Complete;85;
+APP01163;05/02/2024;RM029;B09;Produksi;Approved;Komite;13/02/2024;27/02/2024;29/02/2024;1,94;1,81;1;Complete;90;
+APP01164;11/10/2024;RM010;B05;Produksi;Approved;Analisis;29/10/2024;01/11/2024;08/11/2024;0,93;0,72;4;Incomplete;45;
+APP01165;06/07/2024;RM024;B05;Perdagangan;Approved;Komite;28/07/2024;06/08/2024;09/08/2024;2,86;2,55;0;Complete;100;
+APP01166;22/03/2024;RM004;B14;Jasa;Approved;Komite;01/05/2024;04/05/2024;08/05/2024;3,86;3,10;1;Complete;90;
+APP01167;02/01/2024;RM020;B04;Pertanian;Rejected;Analisis;15/01/2024;;;1,95;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP01168;29/10/2024;RM004;B14;Jasa;Approved;Analisis;21/11/2024;01/12/2024;04/12/2024;1,10;0,83;1;Complete;90;
+APP01169;15/07/2024;RM022;B04;Perdagangan;Approved;Analisis;17/08/2024;21/08/2024;28/08/2024;2,35;2,13;0;Complete;100;
+APP01170;11/01/2024;RM007;B12;Produksi;Approved;Analisis;16/02/2024;24/02/2024;;6,18;4,76;0;Complete;100;
+APP01171;21/08/2024;RM022;B01;Pertanian;Approved;Analisis;02/09/2024;14/09/2024;22/09/2024;5,12;4,01;0;Complete;100;
+APP01172;13/07/2024;RM001;B07;Perdagangan;Rejected;Analisis;19/07/2024;;;0,85;0,00;4;Incomplete;30;Dokumen Tidak Lengkap
+APP01173;28/04/2024;RM012;B09;Pertanian;Approved;Komite;18/05/2024;27/05/2024;05/06/2024;0,83;0,77;4;Incomplete;45;
+APP01174;20/01/2024;RM024;B03;Pertanian;Approved;Komite;04/02/2024;16/02/2024;23/02/2024;0,72;0,62;4;Incomplete;45;
+APP01175;17/09/2024;RM013;B12;Jasa;Pending;Verifikasi;;;;1,00;0,00;3;Incomplete;55;
+APP01176;19/10/2024;RM010;B13;Transportasi;Rejected;Verifikasi;12/11/2024;;;2,31;0,00;1;Complete;75;Sektor Risiko Tinggi
+APP01177;12/09/2024;RM015;B15;Pertanian;Pending;Verifikasi;;;;1,42;0,00;4;Incomplete;40;
+APP01178;09/08/2024;RM027;B02;Pertanian;Rejected;Verifikasi;18/09/2024;;;1,20;0,00;5;Incomplete;15;Dokumen Tidak Lengkap
+APP01179;13/08/2024;RM013;B03;Produksi;Approved;Komite;18/08/2024;27/08/2024;02/09/2024;3,70;3,47;1;Complete;90;
+APP01180;22/02/2024;RM023;B01;Perdagangan;Approved;Komite;02/04/2024;16/04/2024;25/04/2024;2,73;2,35;0;Complete;100;
+APP01181;20/12/2024;RM022;B06;Perdagangan;Approved;Komite;20/01/2025;02/02/2025;04/02/2025;0,71;0,52;1;Complete;90;
+APP01182;07/12/2024;RM022;B11;Jasa;Rejected;Verifikasi;17/12/2024;;;3,57;0,00;0;Complete;90;Cashflow Lemah
+APP01183;06/10/2024;RM021;B11;Perdagangan;Approved;Analisis;25/10/2024;03/11/2024;;2,69;2,23;0;Complete;100;
+APP01184;21/03/2024;RM022;B07;Jasa;Approved;Komite;02/04/2024;09/04/2024;15/04/2024;2,72;2,70;4;Incomplete;45;
+APP01185;20/07/2024;RM028;B11;Konstruksi;Approved;Komite;23/08/2024;27/08/2024;06/09/2024;1,41;0,99;4;Incomplete;45;
+APP01186;06/06/2024;RM009;B11;Pertanian;Approved;Analisis;18/06/2024;27/06/2024;;1,77;1,12;0;Complete;100;
+APP01187;29/04/2024;RM026;B02;Produksi;Approved;Analisis;13/05/2024;16/05/2024;23/05/2024;0,61;0,38;1;Complete;90;
+APP01188;28/02/2024;RM009;B08;Konstruksi;Rejected;Verifikasi;04/04/2024;;;3,34;0,00;3;Incomplete;45;Dokumen Tidak Lengkap
+APP01189;02/08/2024;RM015;B14;Pertanian;Approved;Analisis;25/08/2024;02/09/2024;08/09/2024;1,09;1,06;2;Incomplete;75;
+APP01190;07/05/2024;RM010;B06;Jasa;Pending;Analisis;;;;1,18;0,00;1;Complete;85;
+APP01191;11/08/2024;RM024;B14;Perdagangan;Pending;Verifikasi;;;;1,17;0,00;2;Incomplete;70;
+APP01192;27/07/2024;RM026;B04;Jasa;Approved;Analisis;02/09/2024;07/09/2024;14/09/2024;5,84;5,04;3;Incomplete;60;
+APP01193;24/04/2024;RM025;B05;Produksi;Approved;Analisis;16/05/2024;31/05/2024;;1,33;1,19;4;Incomplete;45;
+APP01194;27/07/2024;RM029;B08;Jasa;Approved;Komite;27/08/2024;08/09/2024;;3,49;2,59;1;Complete;90;
+APP01195;14/01/2024;RM010;B14;Produksi;Approved;Komite;18/02/2024;28/02/2024;08/03/2024;1,95;1,81;0;Complete;100;
+APP01196;09/01/2024;RM008;B03;Perdagangan;Pending;Verifikasi;;;;1,21;0,00;4;Incomplete;40;
+APP01197;09/02/2024;RM024;B03;Produksi;Approved;Analisis;15/03/2024;29/03/2024;08/04/2024;1,08;0,97;0;Complete;100;
+APP01198;24/08/2024;RM016;B14;Pertanian;Approved;Analisis;13/09/2024;21/09/2024;27/09/2024;1,36;0,96;2;Incomplete;75;
+APP01199;07/10/2024;RM017;B15;Produksi;Approved;Komite;10/11/2024;14/11/2024;24/11/2024;1,90;1,50;0;Complete;100;
+APP01200;24/12/2024;RM026;B14;Transportasi;Rejected;Analisis;02/02/2025;;;2,84;0,00;1;Complete;75;Sektor Risiko Tinggi

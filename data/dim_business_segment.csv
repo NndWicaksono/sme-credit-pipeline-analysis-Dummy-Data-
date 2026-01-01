@@ -1,0 +1,7 @@
+business_sector,risk_level,typical_plafond_range
+Perdagangan,Medium,4-7M
+Jasa,Low,1-4M
+Produksi,Medium,7-10M
+Pertanian,High,1-4M
+Konstruksi,High,7-10M
+Transportasi,Medium,4-7M
